@@ -1,2 +1,2 @@
-require('./login');
-require('./course');
+require('./scraper/login');
+require('./scraper/course');
