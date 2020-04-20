@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Linux Academy Downloader",
   "main": "src/index.js",
+  "bin": {
+    "linux-academy-downloader": "bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hieuvp/linux-academy-downloader.git"
