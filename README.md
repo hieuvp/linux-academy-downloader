@@ -51,10 +51,12 @@ linux-academy-downloader https://linuxacademy.com/course/mastering-systemd
 
 ### Authentication Methods
 
-| Description                    |                                            Setup                                             |
-| ------------------------------ | :------------------------------------------------------------------------------------------: |
-| Sign in with Username/Password | `export LINUX_ACADEMY_USERNAME=<your-user>`<br />`export LINUX_ACADEMY_PASSWORD=<your-pass>` |
-| Sign in with Facebook          |                             `export LINUX_ACADEMY_SSO=facebook`                              |
+| Description                    |                                                            Setup                                                            |
+| ------------------------------ | :-------------------------------------------------------------------------------------------------------------------------: |
+| Sign in with Username/Password |                `export LINUX_ACADEMY_USERNAME=<your-user>`<br />`export LINUX_ACADEMY_PASSWORD=<your-pass>`                 |
+| Sign in with Facebook          | `export LINUX_ACADEMY_SSO=facebook`<br />`export FACEBOOK_USERNAME=<your-user>`<br />`export FACEBOOK_PASSWORD=<your-pass>` |
+
+<br />
 
 - **Pro Tips**: Add `export` commands to `~/.bashrc` (or `~/.zshrc`)
   if you want to have these environment variables loaded automatically
