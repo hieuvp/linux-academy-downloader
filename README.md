@@ -8,6 +8,8 @@
 - [How It Works](#how-it-works)
 - [Requirements](#requirements)
 - [Usages](#usages)
+- [Demo](#demo)
+- [Authentication Methods](#authentication-methods)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -33,3 +35,10 @@ These are mandatory dependencies that must be installed in your machine:
 ```shell script
 npm install --global linux-academy-downloader
 ```
+
+## Demo
+
+## Authentication Methods
+
+- [ ] Sign in with Username / Password
+- Sign in with Facebook
