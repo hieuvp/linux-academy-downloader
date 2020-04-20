@@ -7,9 +7,11 @@
 
 - [How It Works](#how-it-works)
 - [Requirements](#requirements)
+  - [Installation](#installation)
 - [Usages](#usages)
+  - [Getting Started](#getting-started)
   - [Authentication Methods](#authentication-methods)
-- [Demo](#demo)
+  - [Demo](#demo)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -30,23 +32,32 @@ These are mandatory dependencies that must be installed in your machine:
 - [gomplate](https://github.com/hairyhenderson/gomplate):
   a template renderer.
 
-## Usages
+### Installation
+
+Using `npm` to install the cli:
 
 ```shell script
 npm install --global linux-academy-downloader
 ```
 
+## Usages
+
+### Getting Started
+
 ```shell script
 export LINUX_ACADEMY_SSO=facebook
 linux-academy-downloader https://linuxacademy.com/course/mastering-systemd
-linux-academy-downloader https://linuxacademy.com/cp/modules/view/id/171
 ```
 
 ### Authentication Methods
 
-| Description                      |                                                Setup                                                 |
-| -------------------------------- | :--------------------------------------------------------------------------------------------------: |
-| Sign in with Username / Password | `export LINUX_ACADEMY_USERNAME=<your-username>`<br />`export LINUX_ACADEMY_PASSWORD=<your-password>` |
-| Sign in with Facebook            |                                 `export LINUX_ACADEMY_SSO=facebook`                                  |
+| Description                    |                                            Setup                                             |
+| ------------------------------ | :------------------------------------------------------------------------------------------: |
+| Sign in with Username/Password | `export LINUX_ACADEMY_USERNAME=<your-user>`<br />`export LINUX_ACADEMY_PASSWORD=<your-pass>` |
+| Sign in with Facebook          |                             `export LINUX_ACADEMY_SSO=facebook`                              |
 
-## Demo
+- **Pro Tips**: Add `export` commands to `~/.bashrc` (or `~/.zshrc`)
+  if you want to have these environment variables loaded automatically
+  every time opening up a new terminal.
+
+### Demo
