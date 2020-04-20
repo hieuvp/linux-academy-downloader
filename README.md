@@ -8,8 +8,8 @@
 - [How It Works](#how-it-works)
 - [Requirements](#requirements)
 - [Usages](#usages)
+  - [Authentication Methods](#authentication-methods)
 - [Demo](#demo)
-- [Authentication Methods](#authentication-methods)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -36,9 +36,17 @@ These are mandatory dependencies that must be installed in your machine:
 npm install --global linux-academy-downloader
 ```
 
+```shell script
+export LINUX_ACADEMY_SSO=facebook
+linux-academy-downloader https://linuxacademy.com/course/mastering-systemd
+linux-academy-downloader https://linuxacademy.com/cp/modules/view/id/171
+```
+
+### Authentication Methods
+
+| Description                      |                                                Setup                                                 |
+| -------------------------------- | :--------------------------------------------------------------------------------------------------: |
+| Sign in with Username / Password | `export LINUX_ACADEMY_USERNAME=<your-username>`<br />`export LINUX_ACADEMY_PASSWORD=<your-password>` |
+| Sign in with Facebook            |                                 `export LINUX_ACADEMY_SSO=facebook`                                  |
+
 ## Demo
-
-## Authentication Methods
-
-- [ ] Sign in with Username / Password
-- Sign in with Facebook
