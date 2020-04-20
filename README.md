@@ -13,11 +13,11 @@
 
 ## How It Works
 
-<div align="center"><img src="assets/linux-academy-downloader.png" width="900"></div>
+<div align="center"><img src="assets/linux-academy-downloader.png" width="800"></div>
 
 ## Requirements
 
-These are mandatory dependencies you will need to install in your machine
+These are mandatory dependencies you will install in your machine:
 
 - <https://github.com/ytdl-org/youtube-dl>
 - <https://docs.gomplate.ca/>
