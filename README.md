@@ -17,11 +17,15 @@
 
 ## Requirements
 
-These are mandatory dependencies you will install in your machine:
+These are mandatory dependencies that must be installed in your machine:
 
-- [Node.js](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/):
+  a JavaScript runtime.
 - [Chrome Driver](https://github.com/giggio/node-chromedriver)
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl)
-- [gomplate](https://github.com/hairyhenderson/gomplate)
+  a WebDriver for automated testing of webapps on the Chrome browser.
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl):
+  a command-line program to download videos from Linux Academy site.
+- [gomplate](https://github.com/hairyhenderson/gomplate):
+  a template renderer.
 
 ## Usage
