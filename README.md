@@ -17,4 +17,11 @@
 
 ## Requirements
 
+These are mandatory dependencies you will need to install in your machine
+
+- <https://github.com/ytdl-org/youtube-dl>
+- <https://docs.gomplate.ca/>
+- <https://github.com/giggio/node-chromedriver>
+- <https://nodejs.org/api/documentation.html>
+
 ## Usage
