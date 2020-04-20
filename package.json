@@ -7,8 +7,8 @@
     "type": "git",
     "url": "git+https://github.com/hieuvp/linux-academy-downloader.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Hieu Van",
+  "license": "Apache",
   "bugs": {
     "url": "https://github.com/hieuvp/linux-academy-downloader/issues"
   },
