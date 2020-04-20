@@ -7,7 +7,7 @@
 
 - [How It Works](#how-it-works)
 - [Requirements](#requirements)
-- [Usage](#usage)
+- [Usages](#usages)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -17,7 +17,7 @@
 
 ## Requirements
 
-These are mandatory dependencies that must be installed in your machine:
+These are mandatory dependencies that must be installed in your machine
 
 - [Node.js](https://nodejs.org/en/):
   a JavaScript runtime.
@@ -28,4 +28,4 @@ These are mandatory dependencies that must be installed in your machine:
 - [gomplate](https://github.com/hairyhenderson/gomplate):
   a template renderer.
 
-## Usage
+## Usages
