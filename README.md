@@ -19,9 +19,9 @@
 
 These are mandatory dependencies you will install in your machine:
 
+- [Node.js](https://nodejs.org/en/)
+- [Chrome Driver](https://github.com/giggio/node-chromedriver)
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 - [gomplate](https://github.com/hairyhenderson/gomplate)
-- [Chromedriver](https://github.com/giggio/node-chromedriver)
-- [Node.js](https://nodejs.org/en/)
 
 ## Usage
