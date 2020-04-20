@@ -17,7 +17,7 @@
 
 ## Requirements
 
-These are mandatory dependencies that must be installed in your machine
+These are mandatory dependencies that must be installed in your machine:
 
 - [Node.js](https://nodejs.org/en/):
   a JavaScript runtime.
