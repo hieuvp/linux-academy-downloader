@@ -13,6 +13,8 @@
 
 ## How It Works
 
+<div align="center"><img src="assets/linux-academy-downloader.png" width="900"></div>
+
 ## Requirements
 
 ## Usage
