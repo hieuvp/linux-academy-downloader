@@ -5,6 +5,10 @@ fmt:
 	@printf "\n"
 
 	@printf "\n"
+	$(MAKEFILE_SCRIPT_PATH)/fmt-yaml.sh
+	@printf "\n"
+
+	@printf "\n"
 	$(MAKEFILE_SCRIPT_PATH)/fmt-markdown.sh
 	@printf "\n"
 
@@ -12,6 +16,10 @@ fmt:
 lint:
 	@printf "\n"
 	$(MAKEFILE_SCRIPT_PATH)/lint-shell.sh
+	@printf "\n"
+
+	@printf "\n"
+	$(MAKEFILE_SCRIPT_PATH)/lint-yaml.sh
 	@printf "\n"
 
 .PHONY: git-add

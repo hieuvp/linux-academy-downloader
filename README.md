@@ -29,3 +29,7 @@ These are mandatory dependencies that must be installed in your machine:
   a template renderer.
 
 ## Usages
+
+```shell script
+npm install --global linux-academy-downloader
+```
