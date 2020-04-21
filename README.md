@@ -12,6 +12,7 @@
   - [Getting Started](#getting-started)
   - [Authentication Methods](#authentication-methods)
   - [Demo](#demo)
+- [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -49,6 +50,10 @@ export LINUX_ACADEMY_SSO=facebook
 linux-academy-downloader https://linuxacademy.com/course/mastering-systemd
 ```
 
+```shell script
+linux-academy-downloader https://linuxacademy.com/cp/modules/view/id/171
+```
+
 ### Authentication Methods
 
 | Description                    |                                                            Setup                                                            |
@@ -63,3 +68,7 @@ linux-academy-downloader https://linuxacademy.com/course/mastering-systemd
   every time opening up a new terminal.
 
 ### Demo
+
+## References
+
+- [LinuxAcademy-DL](https://github.com/RahulShaw/LinuxAcademy-DL)
