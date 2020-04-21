@@ -63,6 +63,8 @@ linux-academy-downloader https://linuxacademy.com/cp/modules/view/id/171
 
 <br />
 
+- <https://linuxacademy.com/cp/ssologin>
+
 - **Pro Tips**: Add `export` commands to `~/.bashrc` (or `~/.zshrc`)
   if you want to have these environment variables loaded automatically
   every time opening up a new terminal.
