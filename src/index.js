@@ -3,7 +3,7 @@ const { Builder } = require('selenium-webdriver');
 const login = require('./scraper/login');
 const course = require('./scraper/course');
 
-const main = async () => {
+(async function main() {
   const driver = await new Builder()
     .forBrowser('chrome')
     .setProxy({
@@ -13,11 +13,11 @@ const main = async () => {
     })
     .build();
 
-  await login(driver);
+  try {
+    await login(driver);
 
-  await course(driver);
-
-  // await driver.quit();
-};
-
-main();
+    await course(driver);
+  } finally {
+    driver.quit();
+  }
+})();

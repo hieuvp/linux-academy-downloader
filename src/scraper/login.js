@@ -14,7 +14,7 @@ module.exports = async (driver) => {
   await driver.findElement(By.id('pass')).sendKeys(process.env.FACEBOOK_PASSWORD);
   await driver.findElement(By.id('loginbutton')).click();
 
-  await driver.wait(until.urlContains('https://linuxacademy.com/'), timeout);
+  await driver.wait(until.urlContains('https://linuxacademy.com/cp/ssologin'), timeout);
   await driver.wait(until.elementLocated(By.partialLinkText('Home')), timeout);
   await driver.findElement(By.partialLinkText('Home')).click();
 };
