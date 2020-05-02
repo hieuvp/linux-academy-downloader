@@ -5,6 +5,10 @@ fmt:
 	@printf "\n"
 
 	@printf "\n"
+	prettier --write package.json
+	@printf "\n"
+
+	@printf "\n"
 	$(MAKEFILE_SCRIPT_PATH)/fmt-yaml.sh
 	@printf "\n"
 
@@ -25,6 +29,10 @@ lint:
 	@printf "\n"
 	$(MAKEFILE_SCRIPT_PATH)/lint-yaml.sh
 	@printf "\n"
+
+.PHONY: test
+test:
+	npx jest
 
 .PHONY: git-add
 git-add: fmt lint

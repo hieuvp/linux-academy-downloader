@@ -1,6 +1,5 @@
 const { By, until } = require('selenium-webdriver');
-
-const timeout = 10000;
+const { timeout } = require('./config');
 
 module.exports = async (driver) => {
   await driver.get('https://linuxacademy.com/');
