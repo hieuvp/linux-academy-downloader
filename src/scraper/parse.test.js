@@ -7,8 +7,8 @@ describe('parse', () => {
   it('should return', () => {
     const html = fs.readFileSync(
       `${__dirname}/test-data/course-mastering-systemd.html`,
-      'UTF-8',
+      'utf8',
     );
-    parse(html);
+    expect(parse(html)).toMatchSnapshot();
   });
 });

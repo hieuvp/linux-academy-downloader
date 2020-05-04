@@ -12,7 +12,7 @@ const course = require('./scraper/course');
       socksVersion: 5,
     })
     .build();
-  
+
   try {
     await login(driver);
 

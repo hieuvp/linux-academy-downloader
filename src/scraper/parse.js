@@ -1,64 +1,55 @@
-const xpath = require('xpath');
-const { DOMParser } = require('xmldom');
-const xmlserializer = require('xmlserializer');
-const parser = require('parse5');
+const xpath = require('xpath-html');
 
-const query = (expression, source, single = false) => {
-  const document = new DOMParser().parseFromString(source);
-  const namespace = 'x';
-  const select = xpath.useNamespaces({ [namespace]: 'http://www.w3.org/1999/xhtml' });
+module.exports = (html) => {
+  const nodes = xpath
+    .fromPageSource(html)
+    .findElements('//div[@class=\'syllabus\']/*');
 
-  // Search Directives in XML
-  // Difference "/", "//" and ".//"
-  // --> Prefixes with namespace ":x"
-  // --> Replace by regex
-  const enhancedExpression = expression.replace(/^([^*A-Z\\a-z]*)/g, `$1${namespace}:`);
+  const resources = [];
+  const course = 'Mastering Systemd';
 
-  return select(enhancedExpression, document, single);
-};
-
-/**
- * Get the visible (i.e. not hidden by CSS) innerText of this element,
- * including sub-elements, without any leading or trailing whitespace.
- *
- * @returns {!promise.Thenable<string>} A promise that will be
- *     resolved with the element's visible text.
- */
-const getText = () => this.schedule_(
-  new command.Command(command.Name.GET_ELEMENT_TEXT),
-  'WebElement.getText()',
-);
-
-const value = node => node.firstChild.data.trim();
-
-module.exports = (pageSource) => {
-  const dom = parser.parse(pageSource);
-  const xhtml = xmlserializer.serializeToString(dom);
-
-  const nodes = query('//div[@class=\'syllabus\']/*', xhtml);
-
-  let section;
-  let subsection;
+  let section = null;
+  let subsection = null;
 
   for (const node of nodes) {
-    switch (node.tagName) {
+    switch (node.getTagName()) {
       case 'h3':
-        section = value(node);
-        console.log('section =', section);
+        section = node.getText().trim();
         break;
       case 'h4':
-        subsection = value(query('//span', node.toString(), true));
-        console.log('subsection =', subsection);
+        subsection = xpath.fromNode(node).findElement('//span').getText();
         break;
+      case 'a':
+        const link = node.getAttribute('href');
+        const lesson = xpath.fromNode(node).findElement('//h6').getText();
+        // const type;
 
+        const resource = {
+          course, section, subsection, lesson, link,
+        };
+
+        resources.push(resource);
+
+        break;
       default:
-      // console.log('I don\'t know such values');
+        console.log('I don\'t know such values');
+        break;
     }
   }
+
+  return resources;
 };
 
 // {
 //   "Course Introduction": [
+//   {
+//     "Getting Started": [
+//       {
+//         "title": "Course Introduction",
+//         "href": "/cp/courses/lesson/course/1710/lesson/1"
+//       }
+//     ]
+//   },
 //   {
 //     "Getting Started": [
 //       {

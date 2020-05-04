@@ -34,6 +34,10 @@ lint:
 test:
 	npx jest
 
+.PHONY: test-update-snapshot
+test-update-snapshot:
+	npx jest --updateSnapshot
+
 .PHONY: git-add
 git-add: fmt lint
 	@printf "\n"
