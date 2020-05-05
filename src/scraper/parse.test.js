@@ -2,7 +2,6 @@ const fs = require('fs');
 
 const parse = require('./parse');
 
-
 describe('parse', () => {
   it('should return', () => {
     const html = fs.readFileSync(

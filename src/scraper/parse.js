@@ -1,41 +1,48 @@
 const xpath = require('xpath-html');
 
 module.exports = (html) => {
-  const nodes = xpath
-    .fromPageSource(html)
-    .findElements('//div[@class=\'syllabus\']/*');
+  const nodes = xpath.fromPageSource(html).findElements("//div[@class='syllabus']/*");
 
   const resources = [];
   const course = 'Mastering Systemd';
 
-  let section = null;
-  let subsection = null;
+  let section;
+  let subsection;
 
-  for (const node of nodes) {
+  nodes.forEach((node) => {
     switch (node.getTagName()) {
-      case 'h3':
+      case 'h3': {
         section = node.getText().trim();
         break;
-      case 'h4':
+      }
+      case 'h4': {
         subsection = xpath.fromNode(node).findElement('//span').getText();
         break;
-      case 'a':
+      }
+      case 'a': {
         const link = node.getAttribute('href');
         const lesson = xpath.fromNode(node).findElement('//h6').getText();
-        // const type;
+        const type = undefined;
 
         const resource = {
-          course, section, subsection, lesson, link,
+          course,
+          section,
+          subsection,
+          lesson,
+          link,
+          type,
         };
 
         resources.push(resource);
 
         break;
-      default:
-        console.log('I don\'t know such values');
+      }
+      default: {
+        console.log("I don't know such values");
         break;
+      }
     }
-  }
+  });
 
   return resources;
 };
