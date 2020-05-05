@@ -18,7 +18,7 @@
   "homepage": "https://github.com/hieuvp/linux-academy-downloader#readme",
   "dependencies": {
     "selenium-webdriver": "3.6.0",
-    "xpath-html": "0.1.1"
+    "xpath-html": "1.0.0"
   },
   "devDependencies": {
     "jest": "25.5.4"
