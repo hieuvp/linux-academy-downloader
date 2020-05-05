@@ -39,24 +39,3 @@ module.exports = (html) => {
 
   return resources;
 };
-
-// {
-//   "Course Introduction": [
-//   {
-//     "Getting Started": [
-//       {
-//         "title": "Course Introduction",
-//         "href": "/cp/courses/lesson/course/1710/lesson/1"
-//       }
-//     ]
-//   },
-//   {
-//     "Getting Started": [
-//       {
-//         "title": "Course Introduction",
-//         "href": "/cp/courses/lesson/course/1710/lesson/1"
-//       }
-//     ]
-//   }
-// ]
-// }
