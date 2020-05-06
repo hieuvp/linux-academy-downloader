@@ -1,6 +1,6 @@
 const xpath = require('xpath-html');
 
-module.exports = (html) => {
+const parseCourse = (html) => {
   const nodes = xpath.fromPageSource(html).findElements("//div[@class='syllabus']/*");
 
   const resources = [];
@@ -55,4 +55,8 @@ module.exports = (html) => {
   });
 
   return resources;
+};
+
+module.exports = {
+  parseCourse,
 };
