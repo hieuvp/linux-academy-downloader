@@ -3,7 +3,7 @@
 exports[`parseCourse should accurately return items about course AWS Essentials 1`] = `
 Array [
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Course Introduction",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/1",
     "section": "Course Introduction",
@@ -11,7 +11,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Project Omega 2.0!",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/2",
     "section": "Course Introduction",
@@ -19,7 +19,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "How to Use the Interactive Guide",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/3",
     "section": "Course Introduction",
@@ -27,7 +27,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Course Features and Tools ",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/4",
     "section": "Course Introduction",
@@ -35,7 +35,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "New to IT? This Video is Just for You",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/5",
     "section": "Course Introduction",
@@ -43,7 +43,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "AWS Essentials Plus AWS Certified Cloud Practitioner For Certification",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/6",
     "section": "Course Introduction",
@@ -51,7 +51,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "AWS Free Tier: Usage Tracking and Billing Widget",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/7",
     "section": "Course Introduction",
@@ -59,7 +59,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Account Basics Overview",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/1",
     "section": "AWS Essentials You Need to Know",
@@ -67,7 +67,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "AWS Free Tier",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/2",
     "section": "AWS Essentials You Need to Know",
@@ -75,7 +75,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Create an AWS Account",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/3",
     "section": "AWS Essentials You Need to Know",
@@ -83,7 +83,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "How to Navigate the AWS Console",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/4",
     "section": "AWS Essentials You Need to Know",
@@ -91,7 +91,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Creating a Billing Alarm",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/5",
     "section": "AWS Essentials You Need to Know",
@@ -99,7 +99,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "AWS Documentation",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/6",
     "section": "AWS Essentials You Need to Know",
@@ -107,7 +107,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap It Up - Account Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/7",
     "section": "AWS Essentials You Need to Know",
@@ -115,7 +115,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Introduction to AWS Identity and Access Management (IAM)",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/1",
     "section": "Managing AWS Access with Users, Groups, and  Roles",
@@ -123,7 +123,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "What is IAM?",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/2",
     "section": "Managing AWS Access with Users, Groups, and  Roles",
@@ -131,7 +131,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "IAM Initial Setup and Configuration",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/3",
     "section": "Managing AWS Access with Users, Groups, and  Roles",
@@ -139,7 +139,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "IAM Users and Policies",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/4",
     "section": "Managing AWS Access with Users, Groups, and  Roles",
@@ -147,7 +147,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "IAM Groups and Policies",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/5",
     "section": "Managing AWS Access with Users, Groups, and  Roles",
@@ -155,7 +155,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "IAM Roles",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/6",
     "section": "Managing AWS Access with Users, Groups, and  Roles",
@@ -163,7 +163,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap It Up - IAM Summary",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/7",
     "section": "Managing AWS Access with Users, Groups, and  Roles",
@@ -171,7 +171,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Introduction to AWS Identity and Access Management (IAM)",
     "link": "https://app.linuxacademy.com/hands-on-labs/e907e3ec-1021-4208-8bb4-04ddfd99280d?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Managing AWS Access with Users, Groups, and  Roles",
@@ -179,7 +179,7 @@ Array [
     "type": "lab",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "QUIZ: AWS IAM Essentials",
     "link": "https://app.linuxacademy.com/challenges/ada49154-6c36-4f25-9187-fd4023ad76a1?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Managing AWS Access with Users, Groups, and  Roles",
@@ -187,7 +187,7 @@ Array [
     "type": "quiz",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Overview of Network Services",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2745/lesson/1",
     "section": "Networking Services and Connectivity",
@@ -195,7 +195,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "AWS Global Infrastructure",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2745/lesson/2",
     "section": "Networking Services and Connectivity",
@@ -203,7 +203,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "VPC Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/1",
     "section": "Networking Services and Connectivity",
@@ -211,7 +211,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Internet Gateways (IGW)",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/2",
     "section": "Networking Services and Connectivity",
@@ -219,7 +219,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Route Tables (RTs)",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/3",
     "section": "Networking Services and Connectivity",
@@ -227,7 +227,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Network Access Control List (NACLs)",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/4",
     "section": "Networking Services and Connectivity",
@@ -235,7 +235,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Subnets",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/5",
     "section": "Networking Services and Connectivity",
@@ -243,7 +243,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Availability Zones (VPC Specific)",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/6",
     "section": "Networking Services and Connectivity",
@@ -251,7 +251,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap It Up - VPC Summary",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/7",
     "section": "Networking Services and Connectivity",
@@ -259,7 +259,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Creating a Basic VPC and Associated Components",
     "link": "https://app.linuxacademy.com/hands-on-labs/934b78e6-5327-4ed3-a369-1b60b382722f?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Networking Services and Connectivity",
@@ -267,7 +267,7 @@ Array [
     "type": "lab",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "QUIZ: VPC Essentials",
     "link": "https://app.linuxacademy.com/challenges/8e62fea1-ebc9-423f-9122-e545ed673682?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Networking Services and Connectivity",
@@ -275,7 +275,7 @@ Array [
     "type": "quiz",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Summary of AWS Compute Services",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2747/lesson/1",
     "section": "Compute Services",
@@ -283,7 +283,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "EC2 Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/1",
     "section": "Compute Services",
@@ -291,7 +291,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Amazon Machine Images (AMIs)",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/2",
     "section": "Compute Services",
@@ -299,7 +299,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Instance Types",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/3",
     "section": "Compute Services",
@@ -307,7 +307,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Elastic Block Storage (EBS)",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/4",
     "section": "Compute Services",
@@ -315,7 +315,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Security Groups",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/5",
     "section": "Compute Services",
@@ -323,7 +323,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "IP Addressing",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/6",
     "section": "Compute Services",
@@ -331,7 +331,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Launching and Using an EC2 Instance",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/7",
     "section": "Compute Services",
@@ -339,7 +339,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Connecting to an EC2 Instance from a Windows PC",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/8",
     "section": "Compute Services",
@@ -347,7 +347,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap It Up - EC2 Summary",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/9",
     "section": "Compute Services",
@@ -355,7 +355,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Create a Linux EC2 Instance in AWS and Connect Using SSH",
     "link": "https://app.linuxacademy.com/hands-on-labs/7819103c-5e59-4179-b635-9fc284e46c5a?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Compute Services",
@@ -363,7 +363,7 @@ Array [
     "type": "lab",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Create a Windows EC2 Instance and Connect using Remote Desktop Protocol (RDP)",
     "link": "https://app.linuxacademy.com/hands-on-labs/a391b955-7a5d-4271-b2bc-7b5329a743cf?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Compute Services",
@@ -371,7 +371,7 @@ Array [
     "type": "lab",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "QUIZ: EC2 Essentials",
     "link": "https://app.linuxacademy.com/challenges/e9da4c4d-c280-442c-9958-995bbc9d2236?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Compute Services",
@@ -379,7 +379,7 @@ Array [
     "type": "quiz",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Summary of AWS Storage Services",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2967/lesson/1",
     "section": "Storage Services",
@@ -387,7 +387,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "S3 Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/1",
     "section": "Storage Services",
@@ -395,7 +395,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Buckets and Objects",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/2",
     "section": "Storage Services",
@@ -403,7 +403,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Storage Classes",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/3",
     "section": "Storage Services",
@@ -411,7 +411,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Object Lifecycles",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/4",
     "section": "Storage Services",
@@ -419,7 +419,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Permissions",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/5",
     "section": "Storage Services",
@@ -427,7 +427,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Object Versioning",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/6",
     "section": "Storage Services",
@@ -435,7 +435,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap It Up - S3 Summary",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/7",
     "section": "Storage Services",
@@ -443,7 +443,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Creating Amazon S3 Buckets, Managing Objects, and Enabling Versioning ",
     "link": "https://app.linuxacademy.com/hands-on-labs/c3870bf7-5d98-44fe-acf5-4c0bbdddb3d9?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Storage Services",
@@ -451,7 +451,7 @@ Array [
     "type": "lab",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Creating a Basic Amazon S3 Lifecycle Policy",
     "link": "https://app.linuxacademy.com/hands-on-labs/d485772f-3128-4e2e-99c8-e948bbb95fc2?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Storage Services",
@@ -459,7 +459,7 @@ Array [
     "type": "lab",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "QUIZ: S3 Essentials",
     "link": "https://app.linuxacademy.com/challenges/63a7c230-0516-4bfc-a395-5f0e55b1f268?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Storage Services",
@@ -467,7 +467,7 @@ Array [
     "type": "quiz",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Summary of AWS Database Services",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2749/lesson/1",
     "section": "Database Services",
@@ -475,7 +475,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "RDS and DynamoDB Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2750/lesson/1",
     "section": "Database Services",
@@ -483,7 +483,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Provisioning a RDS (MySQL)",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2750/lesson/2",
     "section": "Database Services",
@@ -491,7 +491,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap It Up - Database Summary",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2750/lesson/3",
     "section": "Database Services",
@@ -499,7 +499,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Creating an Amazon Aurora RDS Database (MySQL Compatible)",
     "link": "https://app.linuxacademy.com/hands-on-labs/dfd4c330-f9e9-465d-a69b-b9211c7f9903?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Database Services",
@@ -507,7 +507,7 @@ Array [
     "type": "lab",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "QUIZ: AWS Essentials: RDS/DynamoDB Essentials",
     "link": "https://app.linuxacademy.com/challenges/fcf9fe6d-d9a2-4ee8-9d64-71ec0fd0bace?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Database Services",
@@ -515,7 +515,7 @@ Array [
     "type": "quiz",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Summary of AWS Services for Monitoring, Alerts, and Notifications",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2752/lesson/1",
     "section": "Monitoring, Alerts, and Notifications",
@@ -523,7 +523,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "SNS Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2753/lesson/1",
     "section": "Monitoring, Alerts, and Notifications",
@@ -531,7 +531,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Using SNS",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2753/lesson/2",
     "section": "Monitoring, Alerts, and Notifications",
@@ -539,7 +539,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap It Up - SNS Summary",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2753/lesson/3",
     "section": "Monitoring, Alerts, and Notifications",
@@ -547,7 +547,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "QUIZ: SNS Essentials",
     "link": "https://app.linuxacademy.com/challenges/b9a4fb6b-f3d7-4874-a292-e2bf397e0db8?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Monitoring, Alerts, and Notifications",
@@ -555,7 +555,7 @@ Array [
     "type": "quiz",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Introduction to Management Tools",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/1",
     "section": "Monitoring, Alerts, and Notifications",
@@ -563,7 +563,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "CloudWatch Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/2",
     "section": "Monitoring, Alerts, and Notifications",
@@ -571,7 +571,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "CloudWatch Metrics and Alarms",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/3",
     "section": "Monitoring, Alerts, and Notifications",
@@ -579,7 +579,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "CloudTrail - Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/4",
     "section": "Monitoring, Alerts, and Notifications",
@@ -587,7 +587,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap It Up - Management Tools Summary",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/5",
     "section": "Monitoring, Alerts, and Notifications",
@@ -595,7 +595,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Monitoring and Notifications with CloudWatch Events and SNS",
     "link": "https://app.linuxacademy.com/hands-on-labs/9087f514-28eb-4ace-acd4-b6cb83f666a0?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Monitoring, Alerts, and Notifications",
@@ -603,7 +603,7 @@ Array [
     "type": "lab",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "QUIZ: CloudWatch and CloudTrail Essentials",
     "link": "https://app.linuxacademy.com/challenges/7607ac17-b6b8-40cf-aa0a-cc001bf26de2?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Monitoring, Alerts, and Notifications",
@@ -611,7 +611,7 @@ Array [
     "type": "quiz",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Introduction to Load Balancing, Elasticity and Scalability",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/1",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -619,7 +619,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "ELB Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/2",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -627,7 +627,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Creating an ELB",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/3",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -635,7 +635,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap Up - ELB Summary",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/4",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -643,7 +643,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "QUIZ: ELB Essentials",
     "link": "https://app.linuxacademy.com/challenges/4d614063-3861-432d-b465-318dac7280cc?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -651,7 +651,7 @@ Array [
     "type": "quiz",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Introduction to Auto Scaling",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/1",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -659,7 +659,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Auto Scaling Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/2",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -667,7 +667,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Using Auto Scaling",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/3",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -675,7 +675,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap It Up - Auto Scaling Summary",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/4",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -683,7 +683,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "QUIZ: Auto Scaling Essentials",
     "link": "https://app.linuxacademy.com/challenges/90b69b39-4761-40f1-9b5c-d13489fa5cb0?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -691,7 +691,7 @@ Array [
     "type": "quiz",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Introduction to Route 53",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/1",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -699,7 +699,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Route 53 Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/2",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -707,7 +707,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Using Route 53",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/3",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -715,7 +715,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "CloudFront Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/4",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -723,7 +723,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap It Up - Route 53 Summary",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/5",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -731,7 +731,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Setting Up an Application Load Balancer with an Auto Scaling Group and Route 53 in AWS",
     "link": "https://app.linuxacademy.com/hands-on-labs/c1da328a-dd5d-4fb5-904f-f9e89603d017?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -739,7 +739,7 @@ Array [
     "type": "lab",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "QUIZ: Route 53 Essentials",
     "link": "https://app.linuxacademy.com/challenges/b5cc22f2-5864-41b3-b561-6484d2d7f807?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Load Balancing, Elasticity, and Scalability",
@@ -747,7 +747,7 @@ Array [
     "type": "quiz",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Introduction to Lambda",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/1",
     "section": "Serverless Compute",
@@ -755,7 +755,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Lambda Basics",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/2",
     "section": "Serverless Compute",
@@ -763,7 +763,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Lambda Test",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/3",
     "section": "Serverless Compute",
@@ -771,7 +771,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Wrap It Up - Lambda Summary",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/4",
     "section": "Serverless Compute",
@@ -779,7 +779,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "Creating a Basic Lambda Function to Shut Down an EC2 Instance",
     "link": "https://app.linuxacademy.com/hands-on-labs/682d1793-2bc5-455b-9485-97be5499b676?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Serverless Compute",
@@ -787,7 +787,7 @@ Array [
     "type": "lab",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "QUIZ: Lambda Essentials",
     "link": "https://app.linuxacademy.com/challenges/89d52db0-133f-4571-b6c3-37f1b4d2aee4?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Serverless Compute",
@@ -795,7 +795,7 @@ Array [
     "type": "quiz",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "What We Learned",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2761/lesson/1",
     "section": "Course Summary and Conclusion",
@@ -803,7 +803,7 @@ Array [
     "type": "video",
   },
   Object {
-    "course": "Mastering Systemd",
+    "course": "AWS Essentials",
     "lesson": "What's Next? ",
     "link": "https://linuxacademy.com/cp/courses/lesson/course/2761/lesson/2",
     "section": "Course Summary and Conclusion",

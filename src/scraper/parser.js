@@ -1,10 +1,14 @@
 const xpath = require('xpath-html');
 
 const parseCourse = (html) => {
+  const course = xpath
+    .fromPageSource(html)
+    .findElement("//div[@class='course-title']/h1")
+    .getText();
+
   const nodes = xpath.fromPageSource(html).findElements("//div[@class='syllabus']/*");
 
   const resources = [];
-  const course = 'Mastering Systemd';
 
   let section;
   let subsection;
