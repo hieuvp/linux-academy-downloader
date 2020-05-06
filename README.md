@@ -13,6 +13,9 @@
     - [Docker](#docker)
 - [Usages](#usages)
   - [Getting Started](#getting-started)
+    - [With NPM](#with-npm)
+    - [With Brew](#with-brew)
+    - [With Docker](#with-docker)
   - [Authentication Methods](#authentication-methods)
   - [Demo](#demo)
 - [References](#references)
@@ -62,6 +65,12 @@ linux-academy-downloader https://linuxacademy.com/course/mastering-systemd
 ```shell script
 linux-academy-downloader https://linuxacademy.com/cp/modules/view/id/171
 ```
+
+#### With NPM
+
+#### With Brew
+
+#### With Docker
 
 ### Authentication Methods
 

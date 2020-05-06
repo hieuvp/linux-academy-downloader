@@ -30,8 +30,8 @@ lint:
 	$(MAKEFILE_SCRIPT_PATH)/lint-yaml.sh
 	@printf "\n"
 
-.PHONY: test-update-snapshot
-test-update-snapshot:
+.PHONY: test
+test:
 	npx jest --updateSnapshot
 
 .PHONY: test-ci
@@ -39,7 +39,7 @@ test-ci:
 	npx jest --ci --bail
 
 .PHONY: git-add
-git-add: fmt lint test-update-snapshot
+git-add: fmt lint test
 	@printf "\n"
 	git add --all .
 	@printf "\n"

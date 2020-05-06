@@ -1,14 +1,11 @@
 const xpath = require('xpath-html');
 
 const parseCourse = (html) => {
-  const course = xpath
-    .fromPageSource(html)
-    .findElement("//div[@class='course-title']/h1")
-    .getText();
-
-  const nodes = xpath.fromPageSource(html).findElements("//div[@class='syllabus']/*");
-
   const resources = [];
+
+  const document = xpath.fromPageSource(html);
+  const course = document.findElement("//div[@class='course-title']/h1").getText();
+  const nodes = document.findElements("//div[@class='syllabus']/*");
 
   let section;
   let subsection;
@@ -27,13 +24,25 @@ const parseCourse = (html) => {
         let link = node.getAttribute('href');
         let type;
 
-        if (link.startsWith('https://app.linuxacademy.com/challenges/')) {
-          type = 'quiz';
-        } else if (link.startsWith('https://app.linuxacademy.com/hands-on-labs/')) {
-          type = 'lab';
-        } else {
-          link = `https://linuxacademy.com${link}`;
-          type = 'video';
+        switch (true) {
+          case link.startsWith('https://app.linuxacademy.com/challenges/'): {
+            type = 'quiz';
+            break;
+          }
+
+          case link.startsWith('https://app.linuxacademy.com/hands-on-labs/'): {
+            type = 'lab';
+            break;
+          }
+
+          case link.startsWith('/cp/courses/lesson/course/'): {
+            link = `https://linuxacademy.com${link}`;
+            type = 'video';
+            break;
+          }
+
+          default:
+            throw new Error('Unsupported');
         }
 
         const lesson = xpath.fromNode(node).findElement('//h6').getText();
@@ -51,10 +60,8 @@ const parseCourse = (html) => {
 
         break;
       }
-      default: {
-        console.log("I don't know such values");
-        break;
-      }
+      default:
+        throw new Error("I don't know such values");
     }
   });
 
