@@ -4,6 +4,7 @@ const { parseCourse } = require('./parser');
 
 describe('parseCourse', () => {
   it('should accurately return items about course AWS Essentials', () => {
+    // Course: Mastering Systemd
     // @see: https://linuxacademy.com/cp/modules/view/id/171
     const html = readFileSync(`${__dirname}/test-data/course-aws-essentials.html`, 'utf8');
 
@@ -11,6 +12,7 @@ describe('parseCourse', () => {
   });
 
   it('should accurately return items about course Mastering Systemd', () => {
+    // Course: AWS Essentials
     // @see: https://linuxacademy.com/cp/modules/view/id/241
     const html = readFileSync(`${__dirname}/test-data/course-mastering-systemd.html`, 'utf8');
 
