@@ -20,9 +20,19 @@ module.exports = (html) => {
         break;
       }
       case 'a': {
-        const link = node.getAttribute('href');
+        let link = node.getAttribute('href');
+        let type;
+
+        if (link.startsWith('https://app.linuxacademy.com/challenges/')) {
+          type = 'quiz';
+        } else if (link.startsWith('https://app.linuxacademy.com/hands-on-labs/')) {
+          type = 'lab';
+        } else {
+          link = `https://linuxacademy.com${link}`;
+          type = 'video';
+        }
+
         const lesson = xpath.fromNode(node).findElement('//h6').getText();
-        const type = undefined;
 
         const resource = {
           course,
