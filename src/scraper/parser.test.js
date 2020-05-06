@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const parse = require('./parse');
+const parse = require('./parser');
 
 describe('parse', () => {
   it('should return', () => {

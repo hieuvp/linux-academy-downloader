@@ -7,5 +7,7 @@ module.exports = async (driver) => {
   await driver.get(url);
 
   await driver.wait(until.elementLocated(By.xpath("//div[@class='syllabus']/h3")), timeout);
-  await driver.getPageSource();
+  const pageSource = await driver.getPageSource();
+
+  console.log(pageSource)
 };
