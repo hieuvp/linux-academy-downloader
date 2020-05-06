@@ -42,7 +42,7 @@ const parseCourse = (html) => {
           }
 
           default:
-            throw new Error('Unsupported');
+            throw new Error(`Unsupported link${node.toString()}`);
         }
 
         const lesson = xpath.fromNode(node).findElement('//h6').getText();
@@ -60,8 +60,9 @@ const parseCourse = (html) => {
 
         break;
       }
+
       default:
-        throw new Error("I don't know such values");
+        throw new Error(`Unsupported TagName${node.toString()}`);
     }
   });
 

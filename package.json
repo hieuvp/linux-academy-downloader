@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hieuvp/linux-academy-downloader#readme",
   "dependencies": {
+    "lodash": "4.17.15",
     "selenium-webdriver": "3.6.0",
     "xpath-html": "1.0.2"
   },
