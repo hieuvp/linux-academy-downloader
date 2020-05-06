@@ -8,6 +8,9 @@
 - [How It Works](#how-it-works)
 - [Requirements](#requirements)
   - [Installation](#installation)
+    - [NPM](#npm)
+    - [Brew](#brew)
+    - [Docker](#docker)
 - [Usages](#usages)
   - [Getting Started](#getting-started)
   - [Authentication Methods](#authentication-methods)
@@ -35,11 +38,17 @@ These are mandatory dependencies that must be installed in your machine:
 
 ### Installation
 
+#### NPM
+
 Using `npm` to install the cli:
 
 ```shell script
 npm install --global linux-academy-downloader
 ```
+
+#### Brew
+
+#### Docker
 
 ## Usages
 
