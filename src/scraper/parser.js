@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const xpath = require('xpath-html');
 
 const parseCourse = (html) => {
@@ -68,6 +69,9 @@ const parseCourse = (html) => {
 
   return resources;
 };
+=======
+const parseCourse = () => {};
+>>>>>>> master
 
 module.exports = {
   parseCourse,
