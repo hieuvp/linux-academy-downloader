@@ -1,5 +1,10 @@
 # Linux Academy Downloader
 
+[![CI](https://github.com/hieuvp/linux-academy-downloader/workflows/CI/badge.svg?branch=master)](https://github.com/hieuvp/linux-academy-downloader/actions?query=workflow%3ACI+branch%3Amaster)
+[![Release](https://github.com/hieuvp/linux-academy-downloader/workflows/release/badge.svg)](https://github.com/hieuvp/linux-academy-downloader/actions?query=workflow%3Arelease)
+[![NPM](https://img.shields.io/npm/v/linux-academy-downloader.svg)](https://www.npmjs.com/package/linux-academy-downloader)
+[![Downloads](https://img.shields.io/npm/dm/linux-academy-downloader.svg)](https://www.npmjs.com/package/linux-academy-downloader)
+
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -8,6 +13,7 @@
 - [How It Works](#how-it-works)
 - [Requirements](#requirements)
 - [Usages](#usages)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -29,3 +35,7 @@ These are mandatory dependencies that must be installed in your machine:
   a template renderer.
 
 ## Usages
+
+## License
+
+MIT

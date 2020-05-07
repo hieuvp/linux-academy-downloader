@@ -1,0 +1,10 @@
+### Turn on whitelisting
+**/*
+
+### Source code
+!src/**/*
+
+### Exclude test files
+**/test-data/
+*.test.js
+*.test.js.snap
