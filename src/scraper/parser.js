@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const xpath = require('xpath-html');
 
 const parseCourse = (html) => {
@@ -27,7 +26,7 @@ const parseCourse = (html) => {
 
         switch (true) {
           case link.startsWith('https://app.linuxacademy.com/challenges/'): {
-            type = 'quiz';
+            type = 'challenge';
             break;
           }
 
@@ -69,9 +68,6 @@ const parseCourse = (html) => {
 
   return resources;
 };
-=======
-const parseCourse = () => {};
->>>>>>> master
 
 module.exports = {
   parseCourse,

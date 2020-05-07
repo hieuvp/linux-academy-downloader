@@ -184,11 +184,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/ada49154-6c36-4f25-9187-fd4023ad76a1?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Managing AWS Access with Users, Groups, and  Roles",
     "subsection": "Identity and Access Management (IAM)",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "AWS Essentials",
@@ -276,11 +272,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/8e62fea1-ebc9-423f-9122-e545ed673682?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Networking Services and Connectivity",
     "subsection": "Virtual Private Cloud (VPC)",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "AWS Essentials",
@@ -384,11 +376,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/e9da4c4d-c280-442c-9958-995bbc9d2236?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Compute Services",
     "subsection": "Elastic Cloud Compute (EC2)",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "AWS Essentials",
@@ -476,11 +464,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/63a7c230-0516-4bfc-a395-5f0e55b1f268?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Storage Services",
     "subsection": "Storage Services",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "AWS Essentials",
@@ -528,11 +512,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/fcf9fe6d-d9a2-4ee8-9d64-71ec0fd0bace?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Database Services",
     "subsection": "Databases",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "AWS Essentials",
@@ -572,11 +552,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/b9a4fb6b-f3d7-4874-a292-e2bf397e0db8?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Monitoring, Alerts, and Notifications",
     "subsection": "Simple Notification Service (SNS)",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "AWS Essentials",
@@ -632,11 +608,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/7607ac17-b6b8-40cf-aa0a-cc001bf26de2?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Monitoring, Alerts, and Notifications",
     "subsection": "Management Tools",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "AWS Essentials",
@@ -676,11 +648,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/4d614063-3861-432d-b465-318dac7280cc?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Load Balancing, Elasticity, and Scalability",
     "subsection": "Elastic Load Balancer (ELB)",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "AWS Essentials",
@@ -720,11 +688,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/90b69b39-4761-40f1-9b5c-d13489fa5cb0?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Load Balancing, Elasticity, and Scalability",
     "subsection": "Auto Scaling",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "AWS Essentials",
@@ -780,11 +744,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/b5cc22f2-5864-41b3-b561-6484d2d7f807?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Load Balancing, Elasticity, and Scalability",
     "subsection": "Route 53",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "AWS Essentials",
@@ -832,11 +792,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/89d52db0-133f-4571-b6c3-37f1b4d2aee4?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241",
     "section": "Serverless Compute",
     "subsection": "Lambda",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "AWS Essentials",
@@ -937,11 +893,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/eef1813f-e6bf-4ff6-9892-16416855d09a?redirect_uri=https://linuxacademy.com/cp/modules/view/id/171",
     "section": "Linux Daemon History",
     "subsection": "systemd Introduction",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "Mastering Systemd",
@@ -981,11 +933,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/492d694e-56cd-4124-9182-49d1d64c6ccc?redirect_uri=https://linuxacademy.com/cp/modules/view/id/171",
     "section": "systemd Components",
     "subsection": "systemd Tools",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "Mastering Systemd",
@@ -1041,11 +989,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/e18a441c-c617-4469-8425-ad88314486f7?redirect_uri=https://linuxacademy.com/cp/modules/view/id/171",
     "section": "systemd Components",
     "subsection": "Unit Files",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "Mastering Systemd",
@@ -1093,11 +1037,7 @@ Array [
     "link": "https://app.linuxacademy.com/challenges/3c3101cf-d2bb-48ad-810e-608e91a52ea8?redirect_uri=https://linuxacademy.com/cp/modules/view/id/171",
     "section": "Containers with systemd",
     "subsection": "systemd and Containers",
-<<<<<<< HEAD
-    "type": "quiz",
-=======
     "type": "challenge",
->>>>>>> master
   },
   Object {
     "course": "Mastering Systemd",
