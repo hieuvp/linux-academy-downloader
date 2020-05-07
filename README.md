@@ -1,9 +1,9 @@
 # Linux Academy Downloader
 
-[![CI](https://github.com/hieuvp/xpath-html/workflows/CI/badge.svg?branch=master)](https://github.com/hieuvp/xpath-html/actions?query=workflow%3ACI+branch%3Amaster)
-[![Release](https://github.com/hieuvp/xpath-html/workflows/release/badge.svg)](https://github.com/hieuvp/xpath-html/actions?query=workflow%3Arelease)
-[![NPM](https://img.shields.io/npm/v/xpath-html.svg)](https://www.npmjs.com/package/xpath-html)
-[![Downloads](https://img.shields.io/npm/dm/xpath-html.svg)](https://www.npmjs.com/package/xpath-html)
+[![CI](https://github.com/hieuvp/linux-academy-downloader/workflows/CI/badge.svg?branch=master)](https://github.com/hieuvp/linux-academy-downloader/actions?query=workflow%3ACI+branch%3Amaster)
+[![Release](https://github.com/hieuvp/linux-academy-downloader/workflows/release/badge.svg)](https://github.com/hieuvp/linux-academy-downloader/actions?query=workflow%3Arelease)
+[![NPM](https://img.shields.io/npm/v/linux-academy-downloader.svg)](https://www.npmjs.com/package/linux-academy-downloader)
+[![Downloads](https://img.shields.io/npm/dm/linux-academy-downloader.svg)](https://www.npmjs.com/package/linux-academy-downloader)
 
 ## Table of Contents
 
