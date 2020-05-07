@@ -36,7 +36,9 @@ lint:
 
 .PHONY: test
 test:
+	@printf "\n"
 	npx jest --updateSnapshot
+	@printf "\n"
 
 .PHONY: test-ci
 test-ci:
