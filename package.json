@@ -2,12 +2,8 @@
   "name": "linux-academy-downloader",
   "version": "0.0.1",
   "description": "Linux Academy Downloader",
-<<<<<<< HEAD
-  "main": "src/index.js",
-=======
   "author": "Harrison (Hieu) Van",
   "license": "MIT",
->>>>>>> master
   "bin": {
     "linux-academy-downloader": "bin/index.js"
   },
@@ -15,11 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/hieuvp/linux-academy-downloader.git"
   },
-<<<<<<< HEAD
-  "author": "Harrison (Hieu) Van",
-  "license": "MIT",
-=======
->>>>>>> master
   "bugs": {
     "url": "https://github.com/hieuvp/linux-academy-downloader/issues"
   },

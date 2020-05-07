@@ -16,11 +16,6 @@ fmt:
 	prettier --write package.json
 	@printf "\n"
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> master
 	@printf "\n"
 	$(MAKEFILE_SCRIPT_PATH)/fmt-javascript.sh
 	@printf "\n"
@@ -41,13 +36,9 @@ lint:
 
 .PHONY: test
 test:
-<<<<<<< HEAD
-	npx jest --updateSnapshot
-=======
 	@printf "\n"
 	npx jest --updateSnapshot
 	@printf "\n"
->>>>>>> master
 
 .PHONY: test-ci
 test-ci:
