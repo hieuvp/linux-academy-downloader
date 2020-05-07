@@ -1,6 +1,6 @@
 const { readFileSync } = require('fs');
 
-const { parseCourse } = require('./parser');
+const { parseCourse, parseDownloadLink } = require('./parser');
 
 describe('parseCourse', () => {
   it('should accurately return items about course AWS Essentials', () => {
@@ -17,5 +17,16 @@ describe('parseCourse', () => {
     const html = readFileSync(`${__dirname}/test-data/course-mastering-systemd.html`, 'utf8');
 
     expect(parseCourse(html)).toMatchSnapshot();
+  });
+});
+
+describe('parseDownloadLink', () => {
+  // eslint-disable-next-line global-require
+  const logs = require('./test-data/network-logs.json');
+
+  it('should return a downloadable link to use for youtube-dl cli', () => {
+    expect(parseDownloadLink(logs)).toEqual(
+      'https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/03_interactivediagrams_take2_final_1540969987.smil/playlist.m3u8?1556293582',
+    );
   });
 });

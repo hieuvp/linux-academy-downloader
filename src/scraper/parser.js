@@ -1,5 +1,9 @@
 const xpath = require('xpath-html');
 
+/**
+ * @param {string} html
+ * @returns {Array}
+ */
 const parseCourse = (html) => {
   const resources = [];
 
@@ -16,10 +20,12 @@ const parseCourse = (html) => {
         section = node.getText().trim();
         break;
       }
+
       case 'h4': {
         subsection = xpath.fromNode(node).findElement('//span').getText();
         break;
       }
+
       case 'a': {
         let link = node.getAttribute('href');
         let type;
@@ -69,6 +75,13 @@ const parseCourse = (html) => {
   return resources;
 };
 
+/**
+ * @param {Array} logs
+ * @returns {string}
+ */
+const parseDownloadLink = (logs) => logs.toString();
+
 module.exports = {
   parseCourse,
+  parseDownloadLink,
 };
