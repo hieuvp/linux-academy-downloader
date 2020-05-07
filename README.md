@@ -13,7 +13,6 @@
 - [How It Works](#how-it-works)
 - [Requirements](#requirements)
 - [Usages](#usages)
-- [References](#references)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -36,8 +35,6 @@ These are mandatory dependencies that must be installed in your machine:
   a template renderer.
 
 ## Usages
-
-## References
 
 ## License
 
