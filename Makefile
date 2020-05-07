@@ -1,3 +1,7 @@
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Standard
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .PHONY: fmt
 fmt:
 	@printf "\n"
@@ -5,12 +9,14 @@ fmt:
 	@printf "\n"
 
 	@printf "\n"
-	prettier --write package.json
+	$(MAKEFILE_SCRIPT_PATH)/fmt-yaml.sh
 	@printf "\n"
 
 	@printf "\n"
-	$(MAKEFILE_SCRIPT_PATH)/fmt-yaml.sh
+	prettier --write package.json
 	@printf "\n"
+
+
 
 	@printf "\n"
 	$(MAKEFILE_SCRIPT_PATH)/fmt-javascript.sh
@@ -38,12 +44,24 @@ test:
 test-ci:
 	npx jest --ci --bail
 
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Git
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .PHONY: git-add
 git-add: fmt lint test
 	@printf "\n"
 	git add --all .
 	@printf "\n"
 
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Utils
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .PHONY: clean-install
 clean-install:
+	@printf "\n"
 	scripts/clean-install.sh
+	@printf "\n"

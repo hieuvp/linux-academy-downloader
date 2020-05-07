@@ -1,5 +1,10 @@
 # Linux Academy Downloader
 
+[![CI](https://github.com/hieuvp/xpath-html/workflows/CI/badge.svg?branch=master)](https://github.com/hieuvp/xpath-html/actions?query=workflow%3ACI+branch%3Amaster)
+[![Release](https://github.com/hieuvp/xpath-html/workflows/release/badge.svg)](https://github.com/hieuvp/xpath-html/actions?query=workflow%3Arelease)
+[![NPM](https://img.shields.io/npm/v/xpath-html.svg)](https://www.npmjs.com/package/xpath-html)
+[![Downloads](https://img.shields.io/npm/dm/xpath-html.svg)](https://www.npmjs.com/package/xpath-html)
+
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -19,6 +24,7 @@
   - [Authentication Methods](#authentication-methods)
   - [Demo](#demo)
 - [References](#references)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -92,3 +98,7 @@ linux-academy-downloader https://linuxacademy.com/cp/modules/view/id/171
 ## References
 
 - [LinuxAcademy-DL](https://github.com/RahulShaw/LinuxAcademy-DL)
+
+## License
+
+MIT
