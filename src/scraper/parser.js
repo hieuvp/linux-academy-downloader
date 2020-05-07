@@ -1,5 +1,8 @@
 const xpath = require('xpath-html');
 
+const get = require('lodash/get');
+const isNil = require('lodash/isNil');
+
 /**
  * @param {string} html
  * @returns {Array}
@@ -75,11 +78,32 @@ const parseCourse = (html) => {
   return resources;
 };
 
+const parseNetworkRequest = (logEntry) => {
+  const { message } = JSON.parse(logEntry.message);
+
+  const method = get(message, ['method']);
+  const url = get(message, ['params', 'request', 'url']);
+
+  return { method, url };
+};
+
 /**
  * @param {Array} logs
  * @returns {string}
  */
-const parseDownloadLink = (logs) => logs.toString();
+const parseDownloadLink = (logs) => {
+  const found = logs
+    .map((entry) => parseNetworkRequest(entry))
+    .find(
+      (request) =>
+        request.method === 'Network.requestWillBeSent' &&
+        isNil(request.url) === false &&
+        request.url.startsWith('https://video-cdn.linuxacademy.com/') &&
+        request.url.includes('playlist.m3u8'),
+    );
+
+  return get(found, ['url']);
+};
 
 module.exports = {
   parseCourse,
