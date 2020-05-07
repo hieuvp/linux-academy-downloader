@@ -1,9 +1,10 @@
 ### Turn on whitelisting
 **/*
 
-### Binary files
-!bin/*
-
 ### Source code
-!src/*
-src/*.test.js
+!src/**/*
+
+### Exclude test files
+**/test-data/
+*.test.js
+*.test.js.snap
