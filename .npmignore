@@ -1,0 +1,9 @@
+### Turn on whitelisting
+**/*
+
+### Binary files
+!bin/*
+
+### Source code
+!src/*
+src/*.test.js

@@ -3,17 +3,25 @@
   "version": "1.0.0",
   "description": "Linux Academy Downloader",
   "main": "src/index.js",
+  "bin": {
+    "linux-academy-downloader": "bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hieuvp/linux-academy-downloader.git"
   },
-  "author": "Hieu Van",
-  "license": "Apache",
+  "author": "Harrison (Hieu) Van",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hieuvp/linux-academy-downloader/issues"
   },
   "homepage": "https://github.com/hieuvp/linux-academy-downloader#readme",
   "dependencies": {
-    "selenium-webdriver": "3.6.0"
+    "lodash": "4.17.15",
+    "selenium-webdriver": "3.6.0",
+    "xpath-html": "1.0.2"
+  },
+  "devDependencies": {
+    "jest": "26.0.1"
   }
 }

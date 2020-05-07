@@ -6,3 +6,6 @@ rm -rf node_modules
 rm -f package-lock.json
 
 npm install
+
+npm unlink
+npm link
