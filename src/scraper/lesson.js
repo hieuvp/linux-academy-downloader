@@ -1,6 +1,6 @@
 const { By, until, logging } = require('selenium-webdriver');
 
-const { timeout } = require('./config');
+const { config } = require('./driver');
 
 module.exports = async (driver, url) => {
   await driver.get(url);
@@ -9,7 +9,7 @@ module.exports = async (driver, url) => {
     until.elementLocated(
       By.xpath("//video[starts-with(@src, 'blob:https://linuxacademy.com/')]"),
     ),
-    timeout,
+    config.timeout,
   );
 
   const logs = await driver.manage().logs().get(logging.Type.PERFORMANCE);
