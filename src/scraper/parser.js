@@ -78,6 +78,19 @@ const parseCourse = (html) => {
   return resources;
 };
 
+/**
+ * @param {Array} logs
+ * @param {string} fromTimestamp
+ * @param {string} toTimestamp
+ * @returns {Array}
+ */
+const filterLogsByTimeRange = (logs, fromTimestamp, toTimestamp) => {
+  console.log('fromTimestamp =', fromTimestamp);
+  console.log('toTimestamp =', toTimestamp);
+
+  return logs;
+};
+
 const parseNetworkRequest = (logEntry) => {
   const { message } = JSON.parse(logEntry.message);
 
@@ -106,6 +119,7 @@ const parseDownloadLink = (logs) => {
 };
 
 module.exports = {
+  filterLogsByTimeRange,
   parseCourse,
   parseDownloadLink,
 };
