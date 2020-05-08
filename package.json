@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/hieuvp/linux-academy-downloader#readme",
   "dependencies": {
+    "js-yaml": "3.13.1",
     "lodash": "4.17.15",
     "moment": "2.25.3",
     "moment-range": "4.0.2",

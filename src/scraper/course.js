@@ -12,7 +12,7 @@ module.exports = async () => {
   await driver.get(url);
 
   await driver.wait(
-    until.elementLocated(By.xpath('//div[@class=\'syllabus\']/h3')),
+    until.elementLocated(By.xpath("//div[@class='syllabus']/h3")),
     config.WAIT_TIMEOUT,
   );
 
