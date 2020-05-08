@@ -31,13 +31,15 @@ describe('parseDownloadLink', () => {
 });
 
 describe('filterLogsByTimeRange', () => {
-  // eslint-disable-next-line unicorn/consistent-function-scoping
   const redact = (output) =>
     output.map((log) => ({
       ...log,
       message: '<redacted />',
       type: '<redacted />',
     }));
+
+  const fromTimestamp = 1588903652429;
+  const toTimestamp = 1588903652447;
 
   it('should return 0', () => {
     const output = filterLogsByTimeRange(logs, 0, 0);
@@ -46,7 +48,7 @@ describe('filterLogsByTimeRange', () => {
   });
 
   it('should return 1', () => {
-    const output = filterLogsByTimeRange(logs, 1588903652429, 1588903652429);
+    const output = filterLogsByTimeRange(logs, fromTimestamp, fromTimestamp);
 
     expect(redact(output)).toMatchInlineSnapshot(`
       Array [
@@ -61,7 +63,7 @@ describe('filterLogsByTimeRange', () => {
   });
 
   it('should include the start and end dates', () => {
-    const output = filterLogsByTimeRange(logs, 1588903652429, 1588903652447);
+    const output = filterLogsByTimeRange(logs, fromTimestamp, toTimestamp);
 
     expect(redact(output)).toMatchInlineSnapshot(`
       Array [
@@ -94,7 +96,7 @@ describe('filterLogsByTimeRange', () => {
   });
 
   it('should return 3', () => {
-    const output = filterLogsByTimeRange(logs, 1588903652429 + 1, 1588903652447 - 1);
+    const output = filterLogsByTimeRange(logs, fromTimestamp + 1, toTimestamp - 1);
 
     expect(redact(output)).toMatchInlineSnapshot(`
       Array [

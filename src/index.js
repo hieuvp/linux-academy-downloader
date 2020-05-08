@@ -1,38 +1,23 @@
-const { Builder, logging } = require('selenium-webdriver');
-const chrome = require('selenium-webdriver/chrome');
-
-const login = require('./scraper/login');
-// const course = require('./scraper/course');
+const course = require('./scraper/course');
 const lesson = require('./scraper/lesson');
+const login = require('./scraper/login');
+
+const getDriver = require('./scraper/driver');
 
 (async function main() {
-  const options = new chrome.Options();
-
-  const loggingPreferences = new logging.Preferences();
-  loggingPreferences.setLevel(logging.Type.PERFORMANCE, logging.Level.ALL);
-  options.setLoggingPrefs(loggingPreferences);
-
-  options.setPerfLoggingPrefs({
-    enableNetwork: true,
-  });
-
-  const driver = await new Builder()
-    .forBrowser('chrome')
-    .setProxy({
-      proxyType: 'manual',
-      socksProxy: '127.0.0.1:10808',
-      socksVersion: 5,
-    })
-    .setChromeOptions(options)
-    .build();
+  const driver = await getDriver();
 
   try {
-    await login(driver);
+    await login();
 
-    // await course(driver);
+    const resources = await course();
 
-    await lesson(driver, 'https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/3');
+    for (const { link, type } of resources) {
+      if (type === 'video') {
+        await lesson(link);
+      }
+    }
   } finally {
-    // driver.quit();
+    await driver.quit();
   }
-})();
+}());
