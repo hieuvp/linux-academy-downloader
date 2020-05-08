@@ -20,21 +20,37 @@ const parseCourse = (html) => {
   const nodes = document.findElements("//div[@class='syllabus']/*");
 
   let section;
+  let sectionOrder = 0;
+
   let subsection;
+  let subsectionOrder = 0;
+
+  let lessonOrder = 0;
 
   nodes.forEach((node) => {
     switch (node.getTagName()) {
       case 'h3': {
+        sectionOrder += 1;
+        subsectionOrder = 0;
+        lessonOrder = 0;
+
         section = node.getText().trim();
+
         break;
       }
 
       case 'h4': {
+        subsectionOrder += 1;
+        lessonOrder = 0;
+
         subsection = xpath.fromNode(node).findElement('//span').getText();
+
         break;
       }
 
       case 'a': {
+        lessonOrder += 1;
+
         let link = node.getAttribute('href');
         let type;
 
@@ -64,8 +80,11 @@ const parseCourse = (html) => {
         const resource = {
           course,
           section,
+          sectionOrder,
           subsection,
+          subsectionOrder,
           lesson,
+          lessonOrder,
           link,
           type,
         };
