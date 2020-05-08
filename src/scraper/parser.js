@@ -56,7 +56,7 @@ const parseCourse = (html) => {
           }
 
           default:
-            throw new Error(`Unsupported link ${node.toString()}`);
+            throw new Error(`Unsupported Link ${node.toString()}`);
         }
 
         const lesson = xpath.fromNode(node).findElement('//h6').getText();
@@ -85,32 +85,18 @@ const parseCourse = (html) => {
 
 /**
  * @param {Array} logs
- * @param {number} fromTimestamp
- * @param {number} toTimestamp
- * @returns {Array}
- */
-const filterLogsByTimeRange = (logs, fromTimestamp, toTimestamp) => {
-  const range = moment().range(moment(fromTimestamp), moment(toTimestamp));
-
-  return logs.filter(({ timestamp }) => range.contains(moment(timestamp)));
-};
-
-const parseNetworkRequest = (logEntry) => {
-  const { message } = JSON.parse(logEntry.message);
-
-  const method = get(message, ['method']);
-  const url = get(message, ['params', 'request', 'url']);
-
-  return { method, url };
-};
-
-/**
- * @param {Array} logs
  * @returns {string}
  */
 const parseDownloadLink = (logs) => {
   const found = logs
-    .map((entry) => parseNetworkRequest(entry))
+    .map((entry) => {
+      const { message } = JSON.parse(entry.message);
+
+      const method = get(message, ['method']);
+      const url = get(message, ['params', 'request', 'url']);
+
+      return { method, url };
+    })
     .find(
       (request) =>
         request.method === 'Network.requestWillBeSent' &&
@@ -122,8 +108,21 @@ const parseDownloadLink = (logs) => {
   return get(found, ['url']);
 };
 
+/**
+ * @param {Array} logs
+ * @param {number} fromTimestamp
+ * @param {number} toTimestamp
+ * @returns {Array}
+ */
+const filterLogsByTimeRange = (logs, fromTimestamp, toTimestamp) => {
+  const range = moment().range(moment(fromTimestamp), moment(toTimestamp));
+
+  return logs.filter(({ timestamp }) => range.contains(moment(timestamp)));
+};
+
 module.exports = {
-  filterLogsByTimeRange,
   parseCourse,
   parseDownloadLink,
+
+  filterLogsByTimeRange,
 };
