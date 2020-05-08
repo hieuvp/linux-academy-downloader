@@ -60,7 +60,7 @@ describe('filterLogsByTimeRange', () => {
     `);
   });
 
-  it('should return 2', () => {
+  it('should include the start and end dates', () => {
     const output = filterLogsByTimeRange(logs, 1588903652429, 1588903652447);
 
     expect(redact(output)).toMatchInlineSnapshot(`
@@ -119,7 +119,4 @@ describe('filterLogsByTimeRange', () => {
 
     expect(redact(output)).toMatchInlineSnapshot('Array []');
   });
-
-  // Check to see if your range contains a date/moment.
-  // By default the start and end dates are included in the search.
 });
