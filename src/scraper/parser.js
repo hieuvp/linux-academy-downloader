@@ -3,6 +3,11 @@ const xpath = require('xpath-html');
 const get = require('lodash/get');
 const isNil = require('lodash/isNil');
 
+const Moment = require('moment');
+const MomentRange = require('moment-range');
+
+const moment = MomentRange.extendMoment(Moment);
+
 /**
  * @param {string} html
  * @returns {Array}
@@ -80,15 +85,14 @@ const parseCourse = (html) => {
 
 /**
  * @param {Array} logs
- * @param {string} fromTimestamp
- * @param {string} toTimestamp
+ * @param {number} fromTimestamp
+ * @param {number} toTimestamp
  * @returns {Array}
  */
 const filterLogsByTimeRange = (logs, fromTimestamp, toTimestamp) => {
-  console.log('fromTimestamp =', fromTimestamp);
-  console.log('toTimestamp =', toTimestamp);
+  const range = moment().range(moment(fromTimestamp), moment(toTimestamp));
 
-  return logs;
+  return logs.filter(({ timestamp }) => range.contains(moment(timestamp)));
 };
 
 const parseNetworkRequest = (logEntry) => {

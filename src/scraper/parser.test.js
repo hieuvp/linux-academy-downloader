@@ -2,7 +2,7 @@ const { readFileSync } = require('fs');
 
 const { parseCourse, parseDownloadLink, filterLogsByTimeRange } = require('./parser');
 
-const logs = require('./test-data/network-logs.json');
+const logs = require('./test-data/performance-logs.json');
 
 describe('parseCourse', () => {
   it('should accurately return items about course AWS Essentials', () => {
@@ -31,7 +31,95 @@ describe('parseDownloadLink', () => {
 });
 
 describe('filterLogsByTimeRange', () => {
-  it('should return', () => {
-    expect(filterLogsByTimeRange(logs, 0, 0)).toEqual(logs);
+  // eslint-disable-next-line unicorn/consistent-function-scoping
+  const redact = (output) =>
+    output.map((log) => ({
+      ...log,
+      message: '<redacted />',
+      type: '<redacted />',
+    }));
+
+  it('should return 0', () => {
+    const output = filterLogsByTimeRange(logs, 0, 0);
+
+    expect(redact(output)).toMatchInlineSnapshot('Array []');
   });
+
+  it('should return 1', () => {
+    const output = filterLogsByTimeRange(logs, 1588903652429, 1588903652429);
+
+    expect(redact(output)).toMatchInlineSnapshot(`
+      Array [
+        Object {
+          "level": "INFO",
+          "message": "<redacted />",
+          "timestamp": 1588903652429,
+          "type": "<redacted />",
+        },
+      ]
+    `);
+  });
+
+  it('should return 2', () => {
+    const output = filterLogsByTimeRange(logs, 1588903652429, 1588903652447);
+
+    expect(redact(output)).toMatchInlineSnapshot(`
+      Array [
+        Object {
+          "level": "INFO",
+          "message": "<redacted />",
+          "timestamp": 1588903652429,
+          "type": "<redacted />",
+        },
+        Object {
+          "level": "INFO",
+          "message": "<redacted />",
+          "timestamp": 1588903652441,
+          "type": "<redacted />",
+        },
+        Object {
+          "level": "INFO",
+          "message": "<redacted />",
+          "timestamp": 1588903652445,
+          "type": "<redacted />",
+        },
+        Object {
+          "level": "INFO",
+          "message": "<redacted />",
+          "timestamp": 1588903652447,
+          "type": "<redacted />",
+        },
+      ]
+    `);
+  });
+
+  it('should return 3', () => {
+    const output = filterLogsByTimeRange(logs, 1588903652429 + 1, 1588903652447 - 1);
+
+    expect(redact(output)).toMatchInlineSnapshot(`
+      Array [
+        Object {
+          "level": "INFO",
+          "message": "<redacted />",
+          "timestamp": 1588903652441,
+          "type": "<redacted />",
+        },
+        Object {
+          "level": "INFO",
+          "message": "<redacted />",
+          "timestamp": 1588903652445,
+          "type": "<redacted />",
+        },
+      ]
+    `);
+  });
+
+  it('should return 4', () => {
+    const output = filterLogsByTimeRange(logs, 0, 1588754582764 - 1);
+
+    expect(redact(output)).toMatchInlineSnapshot('Array []');
+  });
+
+  // Check to see if your range contains a date/moment.
+  // By default the start and end dates are included in the search.
 });
