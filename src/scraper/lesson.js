@@ -12,5 +12,6 @@ module.exports = async (driver, url) => {
     timeout,
   );
 
-  await driver.manage().logs().get(logging.Type.PERFORMANCE);
+  const logs = await driver.manage().logs().get(logging.Type.PERFORMANCE);
+  console.log(JSON.stringify(logs));
 };
