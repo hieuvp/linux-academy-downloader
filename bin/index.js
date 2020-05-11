@@ -6,3 +6,5 @@
 process.on('unhandledRejection', (error) => {
   throw error;
 });
+
+require('../src');

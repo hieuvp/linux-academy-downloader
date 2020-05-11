@@ -4,5 +4,83 @@
     "message": "{\"message\":{\"method\":\"Network.requestWillBeSent\",\"params\":{\"documentURL\":\"https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/3\",\"frameId\":\"F4F527D2B4DB3AAD929CF5F5B7BD04FF\",\"hasUserGesture\":false,\"initiator\":{\"stack\":{\"callFrames\":[{\"columnNumber\":102469,\"functionName\":\"e.loadInternal\",\"lineNumber\":85,\"scriptId\":\"125\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/provider.hlsjs.js\"},{\"columnNumber\":101829,\"functionName\":\"e.load\",\"lineNumber\":85,\"scriptId\":\"125\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/provider.hlsjs.js\"},{\"columnNumber\":16682,\"functionName\":\"t.load\",\"lineNumber\":85,\"scriptId\":\"125\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/provider.hlsjs.js\"},{\"columnNumber\":15323,\"functionName\":\"t.onManifestLoading\",\"lineNumber\":85,\"scriptId\":\"125\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/provider.hlsjs.js\"},{\"columnNumber\":2026,\"functionName\":\"e.onEventGeneric\",\"lineNumber\":85,\"scriptId\":\"125\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/provider.hlsjs.js\"},{\"columnNumber\":1731,\"functionName\":\"e.onEvent\",\"lineNumber\":85,\"scriptId\":\"125\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/provider.hlsjs.js\"},{\"columnNumber\":1886,\"functionName\":\"u.emit\",\"lineNumber\":14,\"scriptId\":\"125\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/provider.hlsjs.js\"},{\"columnNumber\":32316,\"functionName\":\"t.trigger\",\"lineNumber\":85,\"scriptId\":\"125\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/provider.hlsjs.js\"},{\"columnNumber\":178804,\"functionName\":\"t.loadSource\",\"lineNumber\":85,\"scriptId\":\"125\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/provider.hlsjs.js\"},{\"columnNumber\":10964,\"functionName\":\"value\",\"lineNumber\":97,\"scriptId\":\"125\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/provider.hlsjs.js\"},{\"columnNumber\":10501,\"functionName\":\"value\",\"lineNumber\":97,\"scriptId\":\"125\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/provider.hlsjs.js\"},{\"columnNumber\":93489,\"functionName\":\"value\",\"lineNumber\":9,\"scriptId\":\"124\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.core.controls.js\"},{\"columnNumber\":101114,\"functionName\":\"value\",\"lineNumber\":9,\"scriptId\":\"124\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.core.controls.js\"},{\"columnNumber\":158588,\"functionName\":\"F\",\"lineNumber\":9,\"scriptId\":\"124\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.core.controls.js\"},{\"columnNumber\":158277,\"functionName\":\"q\",\"lineNumber\":9,\"scriptId\":\"124\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.core.controls.js\"},{\"columnNumber\":73491,\"functionName\":\"value\",\"lineNumber\":9,\"scriptId\":\"100\",\"url\":\"https://video-player.linuxacademy.com/jwplayer8/jwplayer.js\"},{\"columnNumber\":164237,\"functionName\":\"\",\"lineNumber\":9,\"scriptId\":\"124\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.core.controls.js\"},{\"columnNumber\":164479,\"functionName\":\"\",\"lineNumber\":9,\"scriptId\":\"124\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.core.controls.js\"},{\"columnNumber\":24798,\"functionName\":\"n\",\"lineNumber\":9,\"scriptId\":\"100\",\"url\":\"https://video-player.linuxacademy.com/jwplayer8/jwplayer.js\"},{\"columnNumber\":26364,\"functionName\":\"h\",\"lineNumber\":9,\"scriptId\":\"100\",\"url\":\"https://video-player.linuxacademy.com/jwplayer8/jwplayer.js\"},{\"columnNumber\":25469,\"functionName\":\"value\",\"lineNumber\":9,\"scriptId\":\"100\",\"url\":\"https://video-player.linuxacademy.com/jwplayer8/jwplayer.js\"},{\"columnNumber\":132745,\"functionName\":\"checkResized\",\"lineNumber\":9,\"scriptId\":\"124\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.core.controls.js\"},{\"columnNumber\":139894,\"functionName\":\"init\",\"lineNumber\":9,\"scriptId\":\"124\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.core.controls.js\"},{\"columnNumber\":164535,\"functionName\":\"playerReady\",\"lineNumber\":9,\"scriptId\":\"124\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.core.controls.js\"},{\"columnNumber\":171438,\"functionName\":\"playerReady\",\"lineNumber\":9,\"scriptId\":\"124\",\"url\":\"https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.core.controls.js\"},{\"columnNumber\":88622,\"functionName\":\"\",\"lineNumber\":9,\"scriptId\":\"100\",\"url\":\"https://video-player.linuxacademy.com/jwplayer8/jwplayer.js\"}]},\"type\":\"script\"},\"loaderId\":\"AB5C9E333FCE6B22BB069DD747BF9AC4\",\"request\":{\"headers\":{\"Referer\":\"https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/3\",\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36\"},\"initialPriority\":\"High\",\"method\":\"GET\",\"mixedContentType\":\"none\",\"referrerPolicy\":\"no-referrer-when-downgrade\",\"url\":\"https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/03_interactivediagrams_take2_final_1540969987.smil/playlist.m3u8?1556293582\"},\"requestId\":\"32875.523\",\"timestamp\":416587.326344,\"type\":\"XHR\",\"wallTime\":1588754582.761057}},\"webview\":\"F4F527D2B4DB3AAD929CF5F5B7BD04FF\"}",
     "timestamp": 1588754582764,
     "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Network.loadingFinished\",\"params\":{\"encodedDataLength\":0,\"requestId\":\"8A2BD5EB4BB79BEACE55B6166650FB06\",\"shouldReportCorbBlocking\":false,\"timestamp\":565633.374312}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903624453,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Page.loadEventFired\",\"params\":{\"timestamp\":565633.439106}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903624454,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Page.frameStoppedLoading\",\"params\":{\"frameId\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903624454,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Page.domContentEventFired\",\"params\":{\"timestamp\":565633.43968}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903624454,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Page.frameResized\",\"params\":{}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903624454,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Network.loadingFinished\",\"params\":{\"encodedDataLength\":0,\"requestId\":\"36980.512\",\"shouldReportCorbBlocking\":false,\"timestamp\":565661.473862}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903652366,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Network.requestServedFromCache\",\"params\":{\"requestId\":\"36980.513\"}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903652366,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Network.dataReceived\",\"params\":{\"dataLength\":80472,\"encodedDataLength\":0,\"requestId\":\"36980.487\",\"timestamp\":565661.560191}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903652429,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Network.dataReceived\",\"params\":{\"dataLength\":16366,\"encodedDataLength\":32804,\"requestId\":\"36980.336\",\"timestamp\":565661.573211}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903652441,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Network.dataReceived\",\"params\":{\"dataLength\":23656,\"encodedDataLength\":20307,\"requestId\":\"36980.487\",\"timestamp\":565661.576795}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903652445,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Network.dataReceived\",\"params\":{\"dataLength\":49170,\"encodedDataLength\":16384,\"requestId\":\"36980.336\",\"timestamp\":565661.5789}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903652447,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Network.dataReceived\",\"params\":{\"dataLength\":22630,\"encodedDataLength\":49224,\"requestId\":\"36980.336\",\"timestamp\":565661.581622}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903652450,
+    "type": ""
+  },
+  {
+    "level": "INFO",
+    "message": "{\"message\":{\"method\":\"Network.dataReceived\",\"params\":{\"dataLength\":10294,\"encodedDataLength\":0,\"requestId\":\"36980.523\",\"timestamp\":565661.775363}},\"webview\":\"802A4CAE26C7A147FFD090C2804E8CA5\"}",
+    "timestamp": 1588903652645,
+    "type": ""
   }
 ]
