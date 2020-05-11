@@ -16,13 +16,13 @@ const getDriver = require('./scraper/driver');
 
     const enhancedResources = [];
 
-    // eslint-disable-next-line no-restricted-syntax
-    for (const resource of resources) {
+    await resources.reduce(async (promise, resource) => {
+      await promise;
+
       const { link, type } = resource;
 
       switch (type) {
         case 'video': {
-          // eslint-disable-next-line  no-await-in-loop
           const downloadLink = await lesson(link);
 
           enhancedResources.push({
@@ -46,7 +46,7 @@ const getDriver = require('./scraper/driver');
         default:
           throw new Error(`Unsupported type ${type}`);
       }
-    }
+    }, Promise.resolve());
 
     console.log(yaml.safeDump(enhancedResources));
   } finally {
