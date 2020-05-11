@@ -40,15 +40,17 @@ describe('filterLogsByTimeRange', () => {
 
   const start = 1588903652429;
   const end = 1588903652447;
+  const minimum = 1588754582764;
 
   it('should be empty at zero-point timestamp', () => {
     const output = filterLogsByTimeRange(logs, 0, 0);
     expect(output).toBeArrayOfSize(0);
   });
 
-  it('should return 1', () => {
+  it('should return at most one element when the time given equally', () => {
     const output = filterLogsByTimeRange(logs, start, start);
 
+    expect(output).toBeArrayOfSize(1);
     expect(redact(output)).toMatchInlineSnapshot(`
       Array [
         Object {
@@ -62,8 +64,13 @@ describe('filterLogsByTimeRange', () => {
   });
 
   it('should include the start and end dates', () => {
-    const output = filterLogsByTimeRange(logs, start, end);
+    let output;
+    let expectedSize;
 
+    output = filterLogsByTimeRange(logs, start, end);
+    expectedSize = output.length;
+
+    expect(output).toBeArrayOfSize(expectedSize);
     expect(redact(output)).toMatchInlineSnapshot(`
       Array [
         Object {
@@ -92,11 +99,11 @@ describe('filterLogsByTimeRange', () => {
         },
       ]
     `);
-  });
 
-  it('should return 3', () => {
-    const output = filterLogsByTimeRange(logs, start + 1, end - 1);
+    output = filterLogsByTimeRange(logs, start + 1, end - 1);
+    expectedSize -= 2;
 
+    expect(output).toBeArrayOfSize(expectedSize);
     expect(redact(output)).toMatchInlineSnapshot(`
       Array [
         Object {
@@ -115,9 +122,8 @@ describe('filterLogsByTimeRange', () => {
     `);
   });
 
-  it('should return 4', () => {
-    const output = filterLogsByTimeRange(logs, 0, 1588754582764 - 1);
-
-    expect(redact(output)).toMatchInlineSnapshot('Array []');
+  it('should be empty when there is no match', () => {
+    const output = filterLogsByTimeRange(logs, 0, minimum - 1);
+    expect(output).toBeArrayOfSize(0);
   });
 });
