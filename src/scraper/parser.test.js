@@ -31,7 +31,6 @@ describe('parseDownloadLink', () => {
 });
 
 describe('filterLogsByTimeRange', () => {
-  // eslint-disable-next-line unicorn/consistent-function-scoping
   const redact = (output) =>
     output.map((log) => ({
       ...log,
