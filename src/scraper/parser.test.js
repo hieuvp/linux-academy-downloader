@@ -23,7 +23,7 @@ describe('parseCourse', () => {
 });
 
 describe('parseDownloadLink', () => {
-  it('should return a downloadable link to use for youtube-dl cli', () => {
+  it('should return a downloadable link for youtube-dl command', () => {
     expect(parseDownloadLink(logs)).toEqual(
       'https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/03_interactivediagrams_take2_final_1540969987.smil/playlist.m3u8?1556293582',
     );
@@ -38,17 +38,16 @@ describe('filterLogsByTimeRange', () => {
       type: '<redacted />',
     }));
 
-  const fromTimestamp = 1588903652429;
-  const toTimestamp = 1588903652447;
+  const start = 1588903652429;
+  const end = 1588903652447;
 
-  it('should return 0', () => {
+  it('should be empty at zero-point timestamp', () => {
     const output = filterLogsByTimeRange(logs, 0, 0);
-
-    expect(redact(output)).toMatchInlineSnapshot('Array []');
+    expect(output).toBeArrayOfSize(0);
   });
 
   it('should return 1', () => {
-    const output = filterLogsByTimeRange(logs, fromTimestamp, fromTimestamp);
+    const output = filterLogsByTimeRange(logs, start, start);
 
     expect(redact(output)).toMatchInlineSnapshot(`
       Array [
@@ -63,7 +62,7 @@ describe('filterLogsByTimeRange', () => {
   });
 
   it('should include the start and end dates', () => {
-    const output = filterLogsByTimeRange(logs, fromTimestamp, toTimestamp);
+    const output = filterLogsByTimeRange(logs, start, end);
 
     expect(redact(output)).toMatchInlineSnapshot(`
       Array [
@@ -96,7 +95,7 @@ describe('filterLogsByTimeRange', () => {
   });
 
   it('should return 3', () => {
-    const output = filterLogsByTimeRange(logs, fromTimestamp + 1, toTimestamp - 1);
+    const output = filterLogsByTimeRange(logs, start + 1, end - 1);
 
     expect(redact(output)).toMatchInlineSnapshot(`
       Array [
