@@ -66,7 +66,7 @@ describe('filterLogsByTimeRange', () => {
     `);
   });
 
-  it('should include the start and end dates', () => {
+  it('should include start and end dates in the result', () => {
     let output;
     let expectedSize;
 
