@@ -96,7 +96,7 @@ const parseCourse = (html) => {
       }
 
       default:
-        throw new Error(`Unsupported TagName ${node.toString()}`);
+        throw new Error(`This element is left unhandled:\n${node.toString()}`);
     }
   });
 
