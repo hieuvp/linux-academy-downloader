@@ -19,10 +19,10 @@ const parseCourse = (html) => {
   const course = document.findElement("//div[@class='course-title']/h1").getText();
   const nodes = document.findElements("//div[@class='syllabus']/*");
 
-  let section;
+  let sectionTitle;
   let sectionOrder = 0;
 
-  let subsection;
+  let subsectionTitle;
   let subsectionOrder = 0;
 
   let lessonOrder = 0;
@@ -34,7 +34,7 @@ const parseCourse = (html) => {
         subsectionOrder = 0;
         lessonOrder = 0;
 
-        section = node.getText().trim();
+        sectionTitle = node.getText().trim();
 
         break;
       }
@@ -43,7 +43,7 @@ const parseCourse = (html) => {
         subsectionOrder += 1;
         lessonOrder = 0;
 
-        subsection = xpath.fromNode(node).findElement('//span').getText();
+        subsectionTitle = xpath.fromNode(node).findElement('//span').getText();
 
         break;
       }
@@ -75,15 +75,15 @@ const parseCourse = (html) => {
             throw new Error(`Unsupported Link ${node.toString()}`);
         }
 
-        const lesson = xpath.fromNode(node).findElement('//h6').getText();
+        const lessonTitle = xpath.fromNode(node).findElement('//h6').getText();
 
         const resource = {
           course,
-          section,
+          sectionTitle,
           sectionOrder,
-          subsection,
+          subsectionTitle,
           subsectionOrder,
-          lesson,
+          lessonTitle,
           lessonOrder,
           link,
           type,
