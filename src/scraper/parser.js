@@ -75,7 +75,7 @@ const parseCourse = (html) => {
           }
 
           default:
-            throw new Error(`Unsupported Link ${node.toString()}`);
+            throw new Error(`Unparsable lesson with link ${lessonLink}`);
         }
 
         lessonTitle = xpath.fromNode(node).findElement('//h6').getText().trim();
