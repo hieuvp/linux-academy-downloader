@@ -51,23 +51,23 @@ const parseCourse = (html) => {
       case 'a': {
         lessonOrder += 1;
 
-        let link = node.getAttribute('href');
-        let type;
+        let lessonLink = node.getAttribute('href');
+        let lessonType;
 
         switch (true) {
-          case link.startsWith('https://app.linuxacademy.com/challenges/'): {
-            type = 'challenge';
+          case lessonLink.startsWith('https://app.linuxacademy.com/challenges/'): {
+            lessonType = 'challenge';
             break;
           }
 
-          case link.startsWith('https://app.linuxacademy.com/hands-on-labs/'): {
-            type = 'lab';
+          case lessonLink.startsWith('https://app.linuxacademy.com/hands-on-labs/'): {
+            lessonType = 'lab';
             break;
           }
 
-          case link.startsWith('/cp/courses/lesson/course/'): {
-            link = `https://linuxacademy.com${link}`;
-            type = 'video';
+          case lessonLink.startsWith('/cp/courses/lesson/course/'): {
+            lessonLink = `https://linuxacademy.com${lessonLink}`;
+            lessonType = 'video';
             break;
           }
 
@@ -85,8 +85,8 @@ const parseCourse = (html) => {
           subsectionOrder,
           lessonTitle,
           lessonOrder,
-          link,
-          type,
+          lessonLink,
+          lessonType,
         };
 
         resources.push(resource);
