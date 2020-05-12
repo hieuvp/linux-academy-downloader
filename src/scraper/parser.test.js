@@ -47,7 +47,7 @@ describe('filterLogsByTimeRange', () => {
     expect(output).toBeArrayOfSize(0);
   });
 
-  it('should return at most one element when given the times are both equally', () => {
+  it('should return at most one element when the given times are both equally', () => {
     const output = filterLogsByTimeRange(logs, start, start);
     const size = output.length;
 
