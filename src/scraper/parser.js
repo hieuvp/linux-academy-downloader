@@ -13,6 +13,7 @@ const moment = MomentRange.extendMoment(Moment);
  * @returns {Array}
  */
 const parseCourse = (html) => {
+  // The returned resources after parsing completely
   const resources = [];
 
   const document = xpath.fromPageSource(html);
