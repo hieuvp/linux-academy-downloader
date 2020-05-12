@@ -38,9 +38,9 @@ describe('filterLogsByTimeRange', () => {
       type: '<redacted />',
     }));
 
+  const minimum = 1588754582764;
   const start = 1588903652429;
   const end = 1588903652447;
-  const minimum = 1588754582764;
 
   it('should be empty at zero-point timestamp', () => {
     const output = filterLogsByTimeRange(logs, 0, 0);
