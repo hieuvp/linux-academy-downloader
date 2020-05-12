@@ -27,6 +27,7 @@ const parseCourse = (html) => {
   let subsectionTitle;
   let subsectionOrder = 0;
 
+  let lessonTitle;
   let lessonOrder = 0;
 
   nodes.forEach((node) => {
@@ -77,7 +78,7 @@ const parseCourse = (html) => {
             throw new Error(`Unsupported Link ${node.toString()}`);
         }
 
-        const lessonTitle = xpath.fromNode(node).findElement('//h6').getText().trim();
+        lessonTitle = xpath.fromNode(node).findElement('//h6').getText().trim();
 
         const resource = {
           course,
