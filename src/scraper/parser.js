@@ -17,7 +17,8 @@ const parseCourse = (html) => {
   const resources = [];
 
   const document = xpath.fromPageSource(html);
-  const course = document.findElement("//div[@class='course-title']/h1").getText();
+  const course = document.findElement("//div[@class='course-title']/h1").getText().trim();
+
   const nodes = document.findElements("//div[@class='syllabus']/*");
 
   let sectionTitle;
