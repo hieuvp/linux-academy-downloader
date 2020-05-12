@@ -80,7 +80,7 @@ const parseCourse = (html) => {
             throw new Error(`Unparsable lesson with link ${lessonLink}`);
         }
 
-        const resource = {
+        resources.push({
           course,
           sectionTitle,
           sectionOrder,
@@ -90,9 +90,7 @@ const parseCourse = (html) => {
           lessonOrder,
           lessonLink,
           lessonType,
-        };
-
-        resources.push(resource);
+        });
 
         break;
       }
