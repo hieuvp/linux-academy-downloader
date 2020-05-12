@@ -54,6 +54,8 @@ const parseCourse = (html) => {
       case 'a': {
         lessonOrder += 1;
 
+        lessonTitle = xpath.fromNode(node).findElement('//h6').getText().trim();
+
         let lessonLink = node.getAttribute('href');
         let lessonType;
 
@@ -77,8 +79,6 @@ const parseCourse = (html) => {
           default:
             throw new Error(`Unparsable lesson with link ${lessonLink}`);
         }
-
-        lessonTitle = xpath.fromNode(node).findElement('//h6').getText().trim();
 
         const resource = {
           course,
