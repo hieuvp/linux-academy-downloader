@@ -108,9 +108,9 @@ const parseCourse = (html) => {
  * @returns {string}
  */
 const parseDownloadLink = (logs) => {
-  const found = logs
-    .map((entry) => {
-      const { message } = JSON.parse(entry.message);
+  const foundLog = logs
+    .map((log) => {
+      const { message } = JSON.parse(log.message);
 
       const method = get(message, ['method']);
       const url = get(message, ['params', 'request', 'url']);
@@ -125,7 +125,7 @@ const parseDownloadLink = (logs) => {
         request.url.includes('playlist.m3u8'),
     );
 
-  return get(found, ['url']);
+  return get(foundLog, ['url']);
 };
 
 /**
