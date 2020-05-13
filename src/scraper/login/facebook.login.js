@@ -1,6 +1,6 @@
 const { By, until } = require('selenium-webdriver');
-const getDriver = require('./driver');
-const config = require('./config');
+const getDriver = require('../driver');
+const config = require('../config');
 
 module.exports = async () => {
   const driver = await getDriver();
