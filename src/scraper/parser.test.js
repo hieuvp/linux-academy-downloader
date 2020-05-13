@@ -38,27 +38,15 @@ describe('filterLogsByTimeRange', () => {
       type: '<redacted />',
     }));
 
-<<<<<<< HEAD
-  const start = 1588903652429;
-  const end = 1588903652447;
-  const minimum = 1588754582764;
-=======
   const minimum = 1588754582764;
   const start = 1588903652429;
   const end = 1588903652447;
->>>>>>> master
 
   it('should be empty at zero-point timestamp', () => {
     const output = filterLogsByTimeRange(logs, 0, 0);
     expect(output).toBeArrayOfSize(0);
   });
 
-<<<<<<< HEAD
-  it('should return at most one element when the time given equally', () => {
-    const output = filterLogsByTimeRange(logs, start, start);
-
-    expect(output).toBeArrayOfSize(1);
-=======
   it('should return at most one element when the given times are both equally', () => {
     const output = filterLogsByTimeRange(logs, start, start);
     const size = output.length;
@@ -66,7 +54,6 @@ describe('filterLogsByTimeRange', () => {
     expect(output).toBeArray();
     expect(size).toBeLessThanOrEqual(1);
 
->>>>>>> master
     expect(redact(output)).toMatchInlineSnapshot(`
       Array [
         Object {
@@ -79,11 +66,7 @@ describe('filterLogsByTimeRange', () => {
     `);
   });
 
-<<<<<<< HEAD
-  it('should include the start and end dates', () => {
-=======
   it('should include start and end dates in the result', () => {
->>>>>>> master
     let output;
     let expectedSize;
 

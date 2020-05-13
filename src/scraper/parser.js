@@ -13,20 +13,6 @@ const moment = MomentRange.extendMoment(Moment);
  * @returns {Array}
  */
 const parseCourse = (html) => {
-<<<<<<< HEAD
-  const resources = [];
-
-  const document = xpath.fromPageSource(html);
-  const course = document.findElement("//div[@class='course-title']/h1").getText();
-  const nodes = document.findElements("//div[@class='syllabus']/*");
-
-  let section;
-  let sectionOrder = 0;
-
-  let subsection;
-  let subsectionOrder = 0;
-
-=======
   // The returned resources after parsing completely
   const resources = [];
 
@@ -42,7 +28,6 @@ const parseCourse = (html) => {
   let subsectionOrder = 0;
 
   let lessonTitle;
->>>>>>> master
   let lessonOrder = 0;
 
   nodes.forEach((node) => {
@@ -52,11 +37,7 @@ const parseCourse = (html) => {
         subsectionOrder = 0;
         lessonOrder = 0;
 
-<<<<<<< HEAD
-        section = node.getText().trim();
-=======
         sectionTitle = node.getText().trim();
->>>>>>> master
 
         break;
       }
@@ -65,11 +46,7 @@ const parseCourse = (html) => {
         subsectionOrder += 1;
         lessonOrder = 0;
 
-<<<<<<< HEAD
-        subsection = xpath.fromNode(node).findElement('//span').getText();
-=======
         subsectionTitle = xpath.fromNode(node).findElement('//span').getText().trim();
->>>>>>> master
 
         break;
       }
@@ -77,25 +54,6 @@ const parseCourse = (html) => {
       case 'a': {
         lessonOrder += 1;
 
-<<<<<<< HEAD
-        let link = node.getAttribute('href');
-        let type;
-
-        switch (true) {
-          case link.startsWith('https://app.linuxacademy.com/challenges/'): {
-            type = 'challenge';
-            break;
-          }
-
-          case link.startsWith('https://app.linuxacademy.com/hands-on-labs/'): {
-            type = 'lab';
-            break;
-          }
-
-          case link.startsWith('/cp/courses/lesson/course/'): {
-            link = `https://linuxacademy.com${link}`;
-            type = 'video';
-=======
         lessonTitle = xpath.fromNode(node).findElement('//h6').getText().trim();
 
         let lessonLink = node.getAttribute('href');
@@ -115,31 +73,10 @@ const parseCourse = (html) => {
           case lessonLink.startsWith('/cp/courses/lesson/course/'): {
             lessonLink = `https://linuxacademy.com${lessonLink}`;
             lessonType = 'video';
->>>>>>> master
             break;
           }
 
           default:
-<<<<<<< HEAD
-            throw new Error(`Unsupported Link ${node.toString()}`);
-        }
-
-        const lesson = xpath.fromNode(node).findElement('//h6').getText();
-
-        const resource = {
-          course,
-          section,
-          sectionOrder,
-          subsection,
-          subsectionOrder,
-          lesson,
-          lessonOrder,
-          link,
-          type,
-        };
-
-        resources.push(resource);
-=======
             throw new Error(`Unparsable lesson with link ${lessonLink}`);
         }
 
@@ -154,17 +91,12 @@ const parseCourse = (html) => {
           lessonLink,
           lessonType,
         });
->>>>>>> master
 
         break;
       }
 
       default:
-<<<<<<< HEAD
-        throw new Error(`Unsupported TagName ${node.toString()}`);
-=======
         throw new Error(`This element is left unhandled:\n${node.toString()}`);
->>>>>>> master
     }
   });
 
@@ -176,15 +108,9 @@ const parseCourse = (html) => {
  * @returns {string}
  */
 const parseDownloadLink = (logs) => {
-<<<<<<< HEAD
-  const found = logs
-    .map((entry) => {
-      const { message } = JSON.parse(entry.message);
-=======
   const foundLog = logs
     .map((log) => {
       const { message } = JSON.parse(log.message);
->>>>>>> master
 
       const method = get(message, ['method']);
       const url = get(message, ['params', 'request', 'url']);
@@ -199,11 +125,7 @@ const parseDownloadLink = (logs) => {
         request.url.includes('playlist.m3u8'),
     );
 
-<<<<<<< HEAD
-  return get(found, ['url']);
-=======
   return get(foundLog, ['url']);
->>>>>>> master
 };
 
 /**
