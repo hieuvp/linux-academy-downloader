@@ -5,6 +5,9 @@ const config = require('./config');
 
 let driver;
 
+/**
+ * @returns {Promise<WebDriver>}
+ */
 const getDriver = async () => {
   if (driver === undefined) {
     const options = new chrome.Options();

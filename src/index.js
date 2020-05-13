@@ -19,11 +19,11 @@ const getDriver = require('./scraper/driver');
     await resources.reduce(async (promise, resource) => {
       await promise;
 
-      const { link, type } = resource;
+      const { lessonLink, lessonType } = resource;
 
-      switch (type) {
+      switch (lessonType) {
         case 'video': {
-          const downloadLink = await lesson(link);
+          const downloadLink = await lesson(lessonLink);
 
           enhancedResources.push({
             ...resource,
@@ -44,7 +44,7 @@ const getDriver = require('./scraper/driver');
         }
 
         default:
-          throw new Error(`Unsupported type ${type}`);
+          throw new Error(`Unsupported type ${lessonType}`);
       }
     }, Promise.resolve());
 
