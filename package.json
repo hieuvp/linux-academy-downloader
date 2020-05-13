@@ -1,6 +1,6 @@
 {
   "name": "linux-academy-downloader",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Linux Academy Downloader",
   "author": "Harrison (Hieu) Van",
   "license": "MIT",
@@ -28,12 +28,7 @@
   },
   "devDependencies": {
     "jest": "26.0.1",
-<<<<<<< HEAD
-    "jest-extended": "0.11.5",
-    "prettier": "2.0.5"
-=======
     "jest-extended": "0.11.5"
->>>>>>> master
   },
   "jest": {
     "setupFilesAfterEnv": [
