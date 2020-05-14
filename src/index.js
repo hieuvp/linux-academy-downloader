@@ -34,11 +34,13 @@ const getDriver = require('./scraper/driver');
         }
 
         case 'lab': {
+          // Can make an html file to redirect to this page
           enhancedResources.push(resource);
           break;
         }
 
         case 'challenge': {
+          // Can make an html file to redirect to this page
           enhancedResources.push(resource);
           break;
         }
@@ -49,7 +51,6 @@ const getDriver = require('./scraper/driver');
     }, Promise.resolve());
 
     console.log(yaml.safeDump({ resources: enhancedResources }));
-
   } finally {
     await driver.quit();
   }
