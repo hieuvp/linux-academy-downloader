@@ -13,10 +13,9 @@ download() {
   local -r lesson_title="Course Introduction"
   local -r lesson_order="1"
 
-  local -r download_link="https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_intro_take2_final_updated_1541707798.smil/playlist.m3u8?1556293582"
-
   local -r lesson_dir="${DOWNLOAD_PATH}/${course}/${section_order}. ${section_title}/${subsection_order}. ${subsection_title}"
   local -r lesson_filename="${lesson_order}. ${lesson_title}.mp4"
+  local -r download_link="https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_intro_take2_final_updated_1541707798.smil/playlist.m3u8?1556293582"
 
   if [[ -f "${lesson_dir}/${lesson_filename}" ]]; then
     echo "Skipping: \"${lesson_filename}\" exists"
