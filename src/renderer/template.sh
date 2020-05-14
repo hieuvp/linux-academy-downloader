@@ -1,11 +1,40 @@
 #!/usr/bin/env bash
 
-set -eoux pipefail
+set -eou pipefail
 
-cd "${HOME}/Downloads/Linux Academy"
+readonly DOWNLOAD_PATH="${HOME}/Downloads/Linux Academy"
 
-youtube-dl https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/mastering-systemd/6345_course-intro_1519177871.smil/playlist.m3u8?1556293582
-# youtube-dl -o "04 - Conclusion and Next Steps.mp4" https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/lots-of-stuff-here
+download() {
+  local -r course="AWS Essentials"
+  local -r section_title="Course Introduction"
+  local -r section_order="1"
+  local -r subsection_title="Getting Started"
+  local -r subsection_order="1"
+  local -r lesson_title="Course Introduction"
+  local -r lesson_order="1"
 
-# Data from course
-# https://linuxacademy.com/cp/modules/view/id/348
+  local -r download_link="https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_intro_take2_final_updated_1541707798.smil/playlist.m3u8?1556293582"
+
+  local -r lesson_dir="${DOWNLOAD_PATH}/${course}/${section_order}. ${section_title}/${subsection_order}. ${subsection_title}"
+  local -r lesson_filename="${lesson_order}. ${lesson_title}.mp4"
+
+  if [[ -f "${lesson_dir}/${lesson_filename}" ]]; then
+    echo "Skipping: \"${lesson_filename}\" exists"
+    return
+  fi
+
+  set -x
+
+  mkdir -p "$lesson_dir"
+
+  (
+    cd "$lesson_dir"
+    youtube-dl --quiet \
+      --no-overwrites --output "$lesson_filename" \
+      "$download_link"
+  )
+
+  set +x
+}
+
+download
