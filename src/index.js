@@ -48,7 +48,8 @@ const getDriver = require('./scraper/driver');
       }
     }, Promise.resolve());
 
-    console.log(yaml.safeDump(enhancedResources));
+    console.log(yaml.safeDump({ resources: enhancedResources }));
+
   } finally {
     await driver.quit();
   }

@@ -1,1094 +1,1096 @@
-- course: AWS Essentials
-  sectionTitle: Course Introduction
-  sectionOrder: 1
-  subsectionTitle: Getting Started
-  subsectionOrder: 1
-  lessonTitle: Course Introduction
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_intro_take2_final_updated_1541707798.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Course Introduction
-  sectionOrder: 1
-  subsectionTitle: Getting Started
-  subsectionOrder: 1
-  lessonTitle: Project Omega 2.0!
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_projectomega-take3_final_1540962968.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Course Introduction
-  sectionOrder: 1
-  subsectionTitle: Getting Started
-  subsectionOrder: 1
-  lessonTitle: How to Use the Interactive Guide
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/03_interactivediagrams_take2_final_1540969987.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Course Introduction
-  sectionOrder: 1
-  subsectionTitle: Getting Started
-  subsectionOrder: 1
-  lessonTitle: Course Features and Tools
-  lessonOrder: 4
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/4"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_coursefeatures_final_1540992359.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Course Introduction
-  sectionOrder: 1
-  subsectionTitle: Getting Started
-  subsectionOrder: 1
-  lessonTitle: New to IT? This Video is Just for You
-  lessonOrder: 5
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/5"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/05_newtoit_1541024508.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Course Introduction
-  sectionOrder: 1
-  subsectionTitle: Getting Started
-  subsectionOrder: 1
-  lessonTitle: AWS Essentials Plus AWS Certified Cloud Practitioner For Certification
-  lessonOrder: 6
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/6"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/svc-video-uploader/production/10930/awsessentials-plus-awsccp_1577992085.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Course Introduction
-  sectionOrder: 1
-  subsectionTitle: Getting Started
-  subsectionOrder: 1
-  lessonTitle: "AWS Free Tier: Usage Tracking and Billing Widget"
-  lessonOrder: 7
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/7"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-aws-free-tier-usage-tracking-and-billing-widget-922019-v3_1568645454.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: AWS Essentials You Need to Know
-  sectionOrder: 2
-  subsectionTitle: Account Basics
-  subsectionOrder: 1
-  lessonTitle: Account Basics Overview
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/accountbasics_intro2_audiofix_1534267295.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: AWS Essentials You Need to Know
-  sectionOrder: 2
-  subsectionTitle: Account Basics
-  subsectionOrder: 1
-  lessonTitle: AWS Free Tier
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-accountbasics-aws-free-tier-8262019-v2_1567018460.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: AWS Essentials You Need to Know
-  sectionOrder: 2
-  subsectionTitle: Account Basics
-  subsectionOrder: 1
-  lessonTitle: Create an AWS Account
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-accountbasics-create-an-aws-account-8272019-v2_1567018534.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: AWS Essentials You Need to Know
-  sectionOrder: 2
-  subsectionTitle: Account Basics
-  subsectionOrder: 1
-  lessonTitle: How to Navigate the AWS Console
-  lessonOrder: 4
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/4"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/accountbasics_navigatingconsole_complete_audiofix_updated_1545143630.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: AWS Essentials You Need to Know
-  sectionOrder: 2
-  subsectionTitle: Account Basics
-  subsectionOrder: 1
-  lessonTitle: Creating a Billing Alarm
-  lessonOrder: 5
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/5"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-accountbasics-create-a-billing-alarm-9182019-v3_1568809652.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: AWS Essentials You Need to Know
-  sectionOrder: 2
-  subsectionTitle: Account Basics
-  subsectionOrder: 1
-  lessonTitle: AWS Documentation
-  lessonOrder: 6
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/6"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/accountbasics_documentation_final_1533243516.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: AWS Essentials You Need to Know
-  sectionOrder: 2
-  subsectionTitle: Account Basics
-  subsectionOrder: 1
-  lessonTitle: Wrap It Up - Account Basics
-  lessonOrder: 7
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/7"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/accountbasics_wrapup_hideaccthb_1560255602.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Managing AWS Access with Users, Groups, and  Roles"
-  sectionOrder: 3
-  subsectionTitle: Identity and Access Management (IAM)
-  subsectionOrder: 1
-  lessonTitle: Introduction to AWS Identity and Access Management (IAM)
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/iam_intro_1534267654.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Managing AWS Access with Users, Groups, and  Roles"
-  sectionOrder: 3
-  subsectionTitle: Identity and Access Management (IAM)
-  subsectionOrder: 1
-  lessonTitle: What is IAM?
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/iam_whatisiam_updated_1534295944_1556468602.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Managing AWS Access with Users, Groups, and  Roles"
-  sectionOrder: 3
-  subsectionTitle: Identity and Access Management (IAM)
-  subsectionOrder: 1
-  lessonTitle: IAM Initial Setup and Configuration
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/iamsetupandconfig_final_1534865309.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Managing AWS Access with Users, Groups, and  Roles"
-  sectionOrder: 3
-  subsectionTitle: Identity and Access Management (IAM)
-  subsectionOrder: 1
-  lessonTitle: IAM Users and Policies
-  lessonOrder: 4
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/4"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-iam-iam-users-and-policies-8282019-v2_1567016475.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Managing AWS Access with Users, Groups, and  Roles"
-  sectionOrder: 3
-  subsectionTitle: Identity and Access Management (IAM)
-  subsectionOrder: 1
-  lessonTitle: IAM Groups and Policies
-  lessonOrder: 5
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/5"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-iam-iam-groups-and-policies-8282019-v2_1567018823.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Managing AWS Access with Users, Groups, and  Roles"
-  sectionOrder: 3
-  subsectionTitle: Identity and Access Management (IAM)
-  subsectionOrder: 1
-  lessonTitle: IAM Roles
-  lessonOrder: 6
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/6"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/iam_roles_updated_1534973261.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Managing AWS Access with Users, Groups, and  Roles"
-  sectionOrder: 3
-  subsectionTitle: Identity and Access Management (IAM)
-  subsectionOrder: 1
-  lessonTitle: Wrap It Up - IAM Summary
-  lessonOrder: 7
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/7"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/iam_summary_1534866802.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Managing AWS Access with Users, Groups, and  Roles"
-  sectionOrder: 3
-  subsectionTitle: Identity and Access Management (IAM)
-  subsectionOrder: 1
-  lessonTitle: Introduction to AWS Identity and Access Management (IAM)
-  lessonOrder: 8
-  lessonLink: >-
-    https://app.linuxacademy.com/hands-on-labs/e907e3ec-1021-4208-8bb4-04ddfd99280d?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: lab
-- course: AWS Essentials
-  sectionTitle: "Managing AWS Access with Users, Groups, and  Roles"
-  sectionOrder: 3
-  subsectionTitle: Identity and Access Management (IAM)
-  subsectionOrder: 1
-  lessonTitle: "QUIZ: AWS IAM Essentials"
-  lessonOrder: 9
-  lessonLink: >-
-    https://app.linuxacademy.com/challenges/ada49154-6c36-4f25-9187-fd4023ad76a1?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: challenge
-- course: AWS Essentials
-  sectionTitle: Networking Services and Connectivity
-  sectionOrder: 4
-  subsectionTitle: Summary of AWS Network Services
-  subsectionOrder: 1
-  lessonTitle: Overview of Network Services
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2745/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_vpc_overviewofnetworkservices_final_1536582857.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Networking Services and Connectivity
-  sectionOrder: 4
-  subsectionTitle: Summary of AWS Network Services
-  subsectionOrder: 1
-  lessonTitle: AWS Global Infrastructure
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2745/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_vpc_aws_globalinfrastructure_final_1536583108.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Networking Services and Connectivity
-  sectionOrder: 4
-  subsectionTitle: Virtual Private Cloud (VPC)
-  subsectionOrder: 2
-  lessonTitle: VPC Basics
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-vpcbasics-09172019_1568743344.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Networking Services and Connectivity
-  sectionOrder: 4
-  subsectionTitle: Virtual Private Cloud (VPC)
-  subsectionOrder: 2
-  lessonTitle: Internet Gateways (IGW)
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04-vpc-igw-final_1563364891.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Networking Services and Connectivity
-  sectionOrder: 4
-  subsectionTitle: Virtual Private Cloud (VPC)
-  subsectionOrder: 2
-  lessonTitle: Route Tables (RTs)
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/05_vpc_routes_final_1536585037.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Networking Services and Connectivity
-  sectionOrder: 4
-  subsectionTitle: Virtual Private Cloud (VPC)
-  subsectionOrder: 2
-  lessonTitle: Network Access Control List (NACLs)
-  lessonOrder: 4
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/4"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/nacl_fixhb1_1561577478.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Networking Services and Connectivity
-  sectionOrder: 4
-  subsectionTitle: Virtual Private Cloud (VPC)
-  subsectionOrder: 2
-  lessonTitle: Subnets
-  lessonOrder: 5
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/5"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/subnets_v2_hb_1556820039.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Networking Services and Connectivity
-  sectionOrder: 4
-  subsectionTitle: Virtual Private Cloud (VPC)
-  subsectionOrder: 2
-  lessonTitle: Availability Zones (VPC Specific)
-  lessonOrder: 6
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/6"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/08_vpc_az_final_1537035259.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Networking Services and Connectivity
-  sectionOrder: 4
-  subsectionTitle: Virtual Private Cloud (VPC)
-  subsectionOrder: 2
-  lessonTitle: Wrap It Up - VPC Summary
-  lessonOrder: 7
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/7"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/09_vpc_summary_final_1537035577.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Networking Services and Connectivity
-  sectionOrder: 4
-  subsectionTitle: Virtual Private Cloud (VPC)
-  subsectionOrder: 2
-  lessonTitle: Creating a Basic VPC and Associated Components
-  lessonOrder: 8
-  lessonLink: >-
-    https://app.linuxacademy.com/hands-on-labs/934b78e6-5327-4ed3-a369-1b60b382722f?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: lab
-- course: AWS Essentials
-  sectionTitle: Networking Services and Connectivity
-  sectionOrder: 4
-  subsectionTitle: Virtual Private Cloud (VPC)
-  subsectionOrder: 2
-  lessonTitle: "QUIZ: VPC Essentials"
-  lessonOrder: 9
-  lessonLink: >-
-    https://app.linuxacademy.com/challenges/8e62fea1-ebc9-423f-9122-e545ed673682?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: challenge
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Compute Services Overview
-  subsectionOrder: 1
-  lessonTitle: Summary of AWS Compute Services
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2747/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/241-summaryofawscomputeservices_1570735013.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: EC2 Basics
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_ec2basics_final_1537449779.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: Amazon Machine Images (AMIs)
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/ami_v2hb_1561042416.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: Instance Types
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_instancetypes_final_1537458000.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: Elastic Block Storage (EBS)
-  lessonOrder: 4
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/4"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-ebs-vid-09052019_1567712546.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: Security Groups
-  lessonOrder: 5
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/5"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/06_securitygroups__final_1537890667.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: IP Addressing
-  lessonOrder: 6
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/6"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/07_ipaddressing_final_1537890917.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: Launching and Using an EC2 Instance
-  lessonOrder: 7
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/7"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/08-provisioningec2_updated_1545148375.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: Connecting to an EC2 Instance from a Windows PC
-  lessonOrder: 8
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/8"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/10_connectingssh_windows_final_1538256270.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: Wrap It Up - EC2 Summary
-  lessonOrder: 9
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/9"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/09_ec2_wrapup_final_1537891148.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: Create a Linux EC2 Instance in AWS and Connect Using SSH
-  lessonOrder: 10
-  lessonLink: >-
-    https://app.linuxacademy.com/hands-on-labs/7819103c-5e59-4179-b635-9fc284e46c5a?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: lab
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: >-
-    Create a Windows EC2 Instance and Connect using Remote Desktop Protocol
-    (RDP)
-  lessonOrder: 11
-  lessonLink: >-
-    https://app.linuxacademy.com/hands-on-labs/a391b955-7a5d-4271-b2bc-7b5329a743cf?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: lab
-- course: AWS Essentials
-  sectionTitle: Compute Services
-  sectionOrder: 5
-  subsectionTitle: Elastic Cloud Compute (EC2)
-  subsectionOrder: 2
-  lessonTitle: "QUIZ: EC2 Essentials"
-  lessonOrder: 12
-  lessonLink: >-
-    https://app.linuxacademy.com/challenges/e9da4c4d-c280-442c-9958-995bbc9d2236?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: challenge
-- course: AWS Essentials
-  sectionTitle: Storage Services
-  sectionOrder: 6
-  subsectionTitle: Storage Services Overview
-  subsectionOrder: 1
-  lessonTitle: Summary of AWS Storage Services
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2967/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_s3_intro_final_1539006522.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Storage Services
-  sectionOrder: 6
-  subsectionTitle: Storage Services
-  subsectionOrder: 2
-  lessonTitle: S3 Basics
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3-basics8292019-v2_1567779206.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Storage Services
-  sectionOrder: 6
-  subsectionTitle: Storage Services
-  subsectionOrder: 2
-  lessonTitle: Buckets and Objects
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3bucketsandfolders-8292019-v2-09202019_1568992095.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Storage Services
-  sectionOrder: 6
-  subsectionTitle: Storage Services
-  subsectionOrder: 2
-  lessonTitle: Storage Classes
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3storageclasses-962019-v4updated_1568645660.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Storage Services
-  sectionOrder: 6
-  subsectionTitle: Storage Services
-  subsectionOrder: 2
-  lessonTitle: Object Lifecycles
-  lessonOrder: 4
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/4"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3-object-lifecycles-922019-v3_1568645713.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Storage Services
-  sectionOrder: 6
-  subsectionTitle: Storage Services
-  subsectionOrder: 2
-  lessonTitle: Permissions
-  lessonOrder: 5
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/5"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3-permissions-922019-v3_1568645753.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Storage Services
-  sectionOrder: 6
-  subsectionTitle: Storage Services
-  subsectionOrder: 2
-  lessonTitle: Object Versioning
-  lessonOrder: 6
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/6"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3-versioning-922019-v3_1568645788.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Storage Services
-  sectionOrder: 6
-  subsectionTitle: Storage Services
-  subsectionOrder: 2
-  lessonTitle: Wrap It Up - S3 Summary
-  lessonOrder: 7
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/7"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/08_wrapup_final_1539269048.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Storage Services
-  sectionOrder: 6
-  subsectionTitle: Storage Services
-  subsectionOrder: 2
-  lessonTitle: "Creating Amazon S3 Buckets, Managing Objects, and Enabling Versioning"
-  lessonOrder: 8
-  lessonLink: >-
-    https://app.linuxacademy.com/hands-on-labs/c3870bf7-5d98-44fe-acf5-4c0bbdddb3d9?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: lab
-- course: AWS Essentials
-  sectionTitle: Storage Services
-  sectionOrder: 6
-  subsectionTitle: Storage Services
-  subsectionOrder: 2
-  lessonTitle: Creating a Basic Amazon S3 Lifecycle Policy
-  lessonOrder: 9
-  lessonLink: >-
-    https://app.linuxacademy.com/hands-on-labs/d485772f-3128-4e2e-99c8-e948bbb95fc2?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: lab
-- course: AWS Essentials
-  sectionTitle: Storage Services
-  sectionOrder: 6
-  subsectionTitle: Storage Services
-  subsectionOrder: 2
-  lessonTitle: "QUIZ: S3 Essentials"
-  lessonOrder: 10
-  lessonLink: >-
-    https://app.linuxacademy.com/challenges/63a7c230-0516-4bfc-a395-5f0e55b1f268?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: challenge
-- course: AWS Essentials
-  sectionTitle: Database Services
-  sectionOrder: 7
-  subsectionTitle: Database Services Overview
-  subsectionOrder: 1
-  lessonTitle: Summary of AWS Database Services
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2749/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_rds_intro_updated_1545320636.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Database Services
-  sectionOrder: 7
-  subsectionTitle: Databases
-  subsectionOrder: 2
-  lessonTitle: RDS and DynamoDB Basics
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2750/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-databases-rds-and-dynamodb-basics-932019-v3_1568645832.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Database Services
-  sectionOrder: 7
-  subsectionTitle: Databases
-  subsectionOrder: 2
-  lessonTitle: Provisioning a RDS (MySQL)
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2750/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/svc-video-uploader/production/13277/awsessentials-databases-provisioningardsmysql_1588154033.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Database Services
-  sectionOrder: 7
-  subsectionTitle: Databases
-  subsectionOrder: 2
-  lessonTitle: Wrap It Up - Database Summary
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2750/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_rds_summary_1538603836.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Database Services
-  sectionOrder: 7
-  subsectionTitle: Databases
-  subsectionOrder: 2
-  lessonTitle: Creating an Amazon Aurora RDS Database (MySQL Compatible)
-  lessonOrder: 4
-  lessonLink: >-
-    https://app.linuxacademy.com/hands-on-labs/dfd4c330-f9e9-465d-a69b-b9211c7f9903?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: lab
-- course: AWS Essentials
-  sectionTitle: Database Services
-  sectionOrder: 7
-  subsectionTitle: Databases
-  subsectionOrder: 2
-  lessonTitle: "QUIZ: AWS Essentials: RDS/DynamoDB Essentials"
-  lessonOrder: 5
-  lessonLink: >-
-    https://app.linuxacademy.com/challenges/fcf9fe6d-d9a2-4ee8-9d64-71ec0fd0bace?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: challenge
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: "Overview of Monitoring, Alerts, and Notifications"
-  subsectionOrder: 1
-  lessonTitle: "Summary of AWS Services for Monitoring, Alerts, and Notifications"
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2752/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_overview_final_1539712495.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: Simple Notification Service (SNS)
-  subsectionOrder: 2
-  lessonTitle: SNS Basics
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2753/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_snsbasics_take1_final_1539713225.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: Simple Notification Service (SNS)
-  subsectionOrder: 2
-  lessonTitle: Using SNS
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2753/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/svc-video-uploader/production/12109/awsessentials-simplenotificationservicesns-usingsns_1583180307.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: Simple Notification Service (SNS)
-  subsectionOrder: 2
-  lessonTitle: Wrap It Up - SNS Summary
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2753/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_wrapupsns_final_1539713932.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: Simple Notification Service (SNS)
-  subsectionOrder: 2
-  lessonTitle: "QUIZ: SNS Essentials"
-  lessonOrder: 4
-  lessonLink: >-
-    https://app.linuxacademy.com/challenges/b9a4fb6b-f3d7-4874-a292-e2bf397e0db8?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: challenge
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: Management Tools
-  subsectionOrder: 3
-  lessonTitle: Introduction to Management Tools
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_managementtools_final_1540301474.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: Management Tools
-  subsectionOrder: 3
-  lessonTitle: CloudWatch Basics
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_cloudwatchbasics_final_1540301043.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: Management Tools
-  subsectionOrder: 3
-  lessonTitle: CloudWatch Metrics and Alarms
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-cloudwatch-cloudwatch-metrics-and-alarms-952019-v3_1568645928.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: Management Tools
-  subsectionOrder: 3
-  lessonTitle: CloudTrail - Basics
-  lessonOrder: 4
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/4"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_cloudtrailbasics_final_1540301642.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: Management Tools
-  subsectionOrder: 3
-  lessonTitle: Wrap It Up - Management Tools Summary
-  lessonOrder: 5
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/5"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/05_wrapup_final_1540301729.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: Management Tools
-  subsectionOrder: 3
-  lessonTitle: Monitoring and Notifications with CloudWatch Events and SNS
-  lessonOrder: 6
-  lessonLink: >-
-    https://app.linuxacademy.com/hands-on-labs/9087f514-28eb-4ace-acd4-b6cb83f666a0?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: lab
-- course: AWS Essentials
-  sectionTitle: "Monitoring, Alerts, and Notifications"
-  sectionOrder: 8
-  subsectionTitle: Management Tools
-  subsectionOrder: 3
-  lessonTitle: "QUIZ: CloudWatch and CloudTrail Essentials"
-  lessonOrder: 7
-  lessonLink: >-
-    https://app.linuxacademy.com/challenges/7607ac17-b6b8-40cf-aa0a-cc001bf26de2?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: challenge
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Elastic Load Balancer (ELB)
-  subsectionOrder: 1
-  lessonTitle: "Introduction to Load Balancing, Elasticity and Scalability"
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_elb_take2_final_1540913117.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Elastic Load Balancer (ELB)
-  subsectionOrder: 1
-  lessonTitle: ELB Basics
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials_elbbasics_05-22-19_1558541168.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Elastic Load Balancer (ELB)
-  subsectionOrder: 1
-  lessonTitle: Creating an ELB
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-load-balancingelasticity-scalability-creating-an-elb-962019-v3_1568645965.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Elastic Load Balancer (ELB)
-  subsectionOrder: 1
-  lessonTitle: Wrap Up - ELB Summary
-  lessonOrder: 4
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/4"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04-wrapup-final-09062019_1567783821.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Elastic Load Balancer (ELB)
-  subsectionOrder: 1
-  lessonTitle: "QUIZ: ELB Essentials"
-  lessonOrder: 5
-  lessonLink: >-
-    https://app.linuxacademy.com/challenges/4d614063-3861-432d-b465-318dac7280cc?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: challenge
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Auto Scaling
-  subsectionOrder: 2
-  lessonTitle: Introduction to Auto Scaling
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_intro_final_1540475366.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Auto Scaling
-  subsectionOrder: 2
-  lessonTitle: Auto Scaling Basics
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_autoscalingbasics_final_updated_1545142852.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Auto Scaling
-  subsectionOrder: 2
-  lessonTitle: Using Auto Scaling
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-autoscaling-mar1-19_1551465700.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Auto Scaling
-  subsectionOrder: 2
-  lessonTitle: Wrap It Up - Auto Scaling Summary
-  lessonOrder: 4
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/4"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_autoscaling_wrapup_final_1540475838.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Auto Scaling
-  subsectionOrder: 2
-  lessonTitle: "QUIZ: Auto Scaling Essentials"
-  lessonOrder: 5
-  lessonLink: >-
-    https://app.linuxacademy.com/challenges/90b69b39-4761-40f1-9b5c-d13489fa5cb0?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: challenge
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Route 53
-  subsectionOrder: 3
-  lessonTitle: Introduction to Route 53
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_r53_intro_final_1540816960.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Route 53
-  subsectionOrder: 3
-  lessonTitle: Route 53 Basics
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_r53_basics_take2_final_1540817119.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Route 53
-  subsectionOrder: 3
-  lessonTitle: Using Route 53
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/03_using_r53_v2_final_1554392420.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Route 53
-  subsectionOrder: 3
-  lessonTitle: CloudFront Basics
-  lessonOrder: 4
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/4"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_cloudfront_final_1540817298.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Route 53
-  subsectionOrder: 3
-  lessonTitle: Wrap It Up - Route 53 Summary
-  lessonOrder: 5
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/5"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/05_wrapupr53_final_1540817385.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Route 53
-  subsectionOrder: 3
-  lessonTitle: >-
-    Setting Up an Application Load Balancer with an Auto Scaling Group and Route
-    53 in AWS
-  lessonOrder: 6
-  lessonLink: >-
-    https://app.linuxacademy.com/hands-on-labs/c1da328a-dd5d-4fb5-904f-f9e89603d017?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: lab
-- course: AWS Essentials
-  sectionTitle: "Load Balancing, Elasticity, and Scalability"
-  sectionOrder: 9
-  subsectionTitle: Route 53
-  subsectionOrder: 3
-  lessonTitle: "QUIZ: Route 53 Essentials"
-  lessonOrder: 7
-  lessonLink: >-
-    https://app.linuxacademy.com/challenges/b5cc22f2-5864-41b3-b561-6484d2d7f807?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: challenge
-- course: AWS Essentials
-  sectionTitle: Serverless Compute
-  sectionOrder: 10
-  subsectionTitle: Lambda
-  subsectionOrder: 1
-  lessonTitle: Introduction to Lambda
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_lambda_intro_final_1540836805.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Serverless Compute
-  sectionOrder: 10
-  subsectionTitle: Lambda
-  subsectionOrder: 1
-  lessonTitle: Lambda Basics
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_lambda_basics_final_1540850311.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Serverless Compute
-  sectionOrder: 10
-  subsectionTitle: Lambda
-  subsectionOrder: 1
-  lessonTitle: Lambda Test
-  lessonOrder: 3
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/3"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-serverless-lambda-test-962019-v3_1568646006.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Serverless Compute
-  sectionOrder: 10
-  subsectionTitle: Lambda
-  subsectionOrder: 1
-  lessonTitle: Wrap It Up - Lambda Summary
-  lessonOrder: 4
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/4"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_wrapup_lambda_final_1540850396.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Serverless Compute
-  sectionOrder: 10
-  subsectionTitle: Lambda
-  subsectionOrder: 1
-  lessonTitle: Creating a Basic Lambda Function to Shut Down an EC2 Instance
-  lessonOrder: 5
-  lessonLink: >-
-    https://app.linuxacademy.com/hands-on-labs/682d1793-2bc5-455b-9485-97be5499b676?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: lab
-- course: AWS Essentials
-  sectionTitle: Serverless Compute
-  sectionOrder: 10
-  subsectionTitle: Lambda
-  subsectionOrder: 1
-  lessonTitle: "QUIZ: Lambda Essentials"
-  lessonOrder: 6
-  lessonLink: >-
-    https://app.linuxacademy.com/challenges/89d52db0-133f-4571-b6c3-37f1b4d2aee4?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
-  lessonType: challenge
-- course: AWS Essentials
-  sectionTitle: Course Summary and Conclusion
-  sectionOrder: 11
-  subsectionTitle: Final Steps
-  subsectionOrder: 1
-  lessonTitle: What We Learned
-  lessonOrder: 1
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2761/lesson/1"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_wrapup_whatwelearned_final_1540856632.smil/playlist.m3u8?1556293582
-- course: AWS Essentials
-  sectionTitle: Course Summary and Conclusion
-  sectionOrder: 11
-  subsectionTitle: Final Steps
-  subsectionOrder: 1
-  lessonTitle: What's Next?
-  lessonOrder: 2
-  lessonLink: "https://linuxacademy.com/cp/courses/lesson/course/2761/lesson/2"
-  lessonType: video
-  downloadLink: >-
-    https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_whatsnext_take2_final_1542039235.smil/playlist.m3u8?1556293582
+resources:
+  - course: AWS Essentials
+    sectionTitle: Course Introduction
+    sectionOrder: 1
+    subsectionTitle: Getting Started
+    subsectionOrder: 1
+    lessonTitle: Course Introduction
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_intro_take2_final_updated_1541707798.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Course Introduction
+    sectionOrder: 1
+    subsectionTitle: Getting Started
+    subsectionOrder: 1
+    lessonTitle: Project Omega 2.0!
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_projectomega-take3_final_1540962968.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Course Introduction
+    sectionOrder: 1
+    subsectionTitle: Getting Started
+    subsectionOrder: 1
+    lessonTitle: How to Use the Interactive Guide
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/03_interactivediagrams_take2_final_1540969987.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Course Introduction
+    sectionOrder: 1
+    subsectionTitle: Getting Started
+    subsectionOrder: 1
+    lessonTitle: Course Features and Tools
+    lessonOrder: 4
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/4'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_coursefeatures_final_1540992359.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Course Introduction
+    sectionOrder: 1
+    subsectionTitle: Getting Started
+    subsectionOrder: 1
+    lessonTitle: New to IT? This Video is Just for You
+    lessonOrder: 5
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/5'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/05_newtoit_1541024508.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Course Introduction
+    sectionOrder: 1
+    subsectionTitle: Getting Started
+    subsectionOrder: 1
+    lessonTitle: AWS Essentials Plus AWS Certified Cloud Practitioner For Certification
+    lessonOrder: 6
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/6'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/svc-video-uploader/production/10930/awsessentials-plus-awsccp_1577992085.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Course Introduction
+    sectionOrder: 1
+    subsectionTitle: Getting Started
+    subsectionOrder: 1
+    lessonTitle: 'AWS Free Tier: Usage Tracking and Billing Widget'
+    lessonOrder: 7
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2763/lesson/7'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-aws-free-tier-usage-tracking-and-billing-widget-922019-v3_1568645454.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: AWS Essentials You Need to Know
+    sectionOrder: 2
+    subsectionTitle: Account Basics
+    subsectionOrder: 1
+    lessonTitle: Account Basics Overview
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/accountbasics_intro2_audiofix_1534267295.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: AWS Essentials You Need to Know
+    sectionOrder: 2
+    subsectionTitle: Account Basics
+    subsectionOrder: 1
+    lessonTitle: AWS Free Tier
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-accountbasics-aws-free-tier-8262019-v2_1567018460.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: AWS Essentials You Need to Know
+    sectionOrder: 2
+    subsectionTitle: Account Basics
+    subsectionOrder: 1
+    lessonTitle: Create an AWS Account
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-accountbasics-create-an-aws-account-8272019-v2_1567018534.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: AWS Essentials You Need to Know
+    sectionOrder: 2
+    subsectionTitle: Account Basics
+    subsectionOrder: 1
+    lessonTitle: How to Navigate the AWS Console
+    lessonOrder: 4
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/4'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/accountbasics_navigatingconsole_complete_audiofix_updated_1545143630.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: AWS Essentials You Need to Know
+    sectionOrder: 2
+    subsectionTitle: Account Basics
+    subsectionOrder: 1
+    lessonTitle: Creating a Billing Alarm
+    lessonOrder: 5
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/5'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-accountbasics-create-a-billing-alarm-9182019-v3_1568809652.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: AWS Essentials You Need to Know
+    sectionOrder: 2
+    subsectionTitle: Account Basics
+    subsectionOrder: 1
+    lessonTitle: AWS Documentation
+    lessonOrder: 6
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/6'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/accountbasics_documentation_final_1533243516.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: AWS Essentials You Need to Know
+    sectionOrder: 2
+    subsectionTitle: Account Basics
+    subsectionOrder: 1
+    lessonTitle: Wrap It Up - Account Basics
+    lessonOrder: 7
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2743/lesson/7'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/accountbasics_wrapup_hideaccthb_1560255602.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Managing AWS Access with Users, Groups, and  Roles'
+    sectionOrder: 3
+    subsectionTitle: Identity and Access Management (IAM)
+    subsectionOrder: 1
+    lessonTitle: Introduction to AWS Identity and Access Management (IAM)
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/iam_intro_1534267654.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Managing AWS Access with Users, Groups, and  Roles'
+    sectionOrder: 3
+    subsectionTitle: Identity and Access Management (IAM)
+    subsectionOrder: 1
+    lessonTitle: What is IAM?
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/iam_whatisiam_updated_1534295944_1556468602.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Managing AWS Access with Users, Groups, and  Roles'
+    sectionOrder: 3
+    subsectionTitle: Identity and Access Management (IAM)
+    subsectionOrder: 1
+    lessonTitle: IAM Initial Setup and Configuration
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/iamsetupandconfig_final_1534865309.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Managing AWS Access with Users, Groups, and  Roles'
+    sectionOrder: 3
+    subsectionTitle: Identity and Access Management (IAM)
+    subsectionOrder: 1
+    lessonTitle: IAM Users and Policies
+    lessonOrder: 4
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/4'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-iam-iam-users-and-policies-8282019-v2_1567016475.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Managing AWS Access with Users, Groups, and  Roles'
+    sectionOrder: 3
+    subsectionTitle: Identity and Access Management (IAM)
+    subsectionOrder: 1
+    lessonTitle: IAM Groups and Policies
+    lessonOrder: 5
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/5'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-iam-iam-groups-and-policies-8282019-v2_1567018823.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Managing AWS Access with Users, Groups, and  Roles'
+    sectionOrder: 3
+    subsectionTitle: Identity and Access Management (IAM)
+    subsectionOrder: 1
+    lessonTitle: IAM Roles
+    lessonOrder: 6
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/6'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/iam_roles_updated_1534973261.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Managing AWS Access with Users, Groups, and  Roles'
+    sectionOrder: 3
+    subsectionTitle: Identity and Access Management (IAM)
+    subsectionOrder: 1
+    lessonTitle: Wrap It Up - IAM Summary
+    lessonOrder: 7
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2744/lesson/7'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/iam_summary_1534866802.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Managing AWS Access with Users, Groups, and  Roles'
+    sectionOrder: 3
+    subsectionTitle: Identity and Access Management (IAM)
+    subsectionOrder: 1
+    lessonTitle: Introduction to AWS Identity and Access Management (IAM)
+    lessonOrder: 8
+    lessonLink: >-
+      https://app.linuxacademy.com/hands-on-labs/e907e3ec-1021-4208-8bb4-04ddfd99280d?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: lab
+  - course: AWS Essentials
+    sectionTitle: 'Managing AWS Access with Users, Groups, and  Roles'
+    sectionOrder: 3
+    subsectionTitle: Identity and Access Management (IAM)
+    subsectionOrder: 1
+    lessonTitle: 'QUIZ: AWS IAM Essentials'
+    lessonOrder: 9
+    lessonLink: >-
+      https://app.linuxacademy.com/challenges/ada49154-6c36-4f25-9187-fd4023ad76a1?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: challenge
+  - course: AWS Essentials
+    sectionTitle: Networking Services and Connectivity
+    sectionOrder: 4
+    subsectionTitle: Summary of AWS Network Services
+    subsectionOrder: 1
+    lessonTitle: Overview of Network Services
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2745/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_vpc_overviewofnetworkservices_final_1536582857.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Networking Services and Connectivity
+    sectionOrder: 4
+    subsectionTitle: Summary of AWS Network Services
+    subsectionOrder: 1
+    lessonTitle: AWS Global Infrastructure
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2745/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_vpc_aws_globalinfrastructure_final_1536583108.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Networking Services and Connectivity
+    sectionOrder: 4
+    subsectionTitle: Virtual Private Cloud (VPC)
+    subsectionOrder: 2
+    lessonTitle: VPC Basics
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-vpcbasics-09172019_1568743344.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Networking Services and Connectivity
+    sectionOrder: 4
+    subsectionTitle: Virtual Private Cloud (VPC)
+    subsectionOrder: 2
+    lessonTitle: Internet Gateways (IGW)
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04-vpc-igw-final_1563364891.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Networking Services and Connectivity
+    sectionOrder: 4
+    subsectionTitle: Virtual Private Cloud (VPC)
+    subsectionOrder: 2
+    lessonTitle: Route Tables (RTs)
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/05_vpc_routes_final_1536585037.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Networking Services and Connectivity
+    sectionOrder: 4
+    subsectionTitle: Virtual Private Cloud (VPC)
+    subsectionOrder: 2
+    lessonTitle: Network Access Control List (NACLs)
+    lessonOrder: 4
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/4'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/nacl_fixhb1_1561577478.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Networking Services and Connectivity
+    sectionOrder: 4
+    subsectionTitle: Virtual Private Cloud (VPC)
+    subsectionOrder: 2
+    lessonTitle: Subnets
+    lessonOrder: 5
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/5'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/subnets_v2_hb_1556820039.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Networking Services and Connectivity
+    sectionOrder: 4
+    subsectionTitle: Virtual Private Cloud (VPC)
+    subsectionOrder: 2
+    lessonTitle: Availability Zones (VPC Specific)
+    lessonOrder: 6
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/6'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/08_vpc_az_final_1537035259.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Networking Services and Connectivity
+    sectionOrder: 4
+    subsectionTitle: Virtual Private Cloud (VPC)
+    subsectionOrder: 2
+    lessonTitle: Wrap It Up - VPC Summary
+    lessonOrder: 7
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2746/lesson/7'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/09_vpc_summary_final_1537035577.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Networking Services and Connectivity
+    sectionOrder: 4
+    subsectionTitle: Virtual Private Cloud (VPC)
+    subsectionOrder: 2
+    lessonTitle: Creating a Basic VPC and Associated Components
+    lessonOrder: 8
+    lessonLink: >-
+      https://app.linuxacademy.com/hands-on-labs/934b78e6-5327-4ed3-a369-1b60b382722f?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: lab
+  - course: AWS Essentials
+    sectionTitle: Networking Services and Connectivity
+    sectionOrder: 4
+    subsectionTitle: Virtual Private Cloud (VPC)
+    subsectionOrder: 2
+    lessonTitle: 'QUIZ: VPC Essentials'
+    lessonOrder: 9
+    lessonLink: >-
+      https://app.linuxacademy.com/challenges/8e62fea1-ebc9-423f-9122-e545ed673682?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: challenge
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Compute Services Overview
+    subsectionOrder: 1
+    lessonTitle: Summary of AWS Compute Services
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2747/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/241-summaryofawscomputeservices_1570735013.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: EC2 Basics
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_ec2basics_final_1537449779.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: Amazon Machine Images (AMIs)
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/ami_v2hb_1561042416.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: Instance Types
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_instancetypes_final_1537458000.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: Elastic Block Storage (EBS)
+    lessonOrder: 4
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/4'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-ebs-vid-09052019_1567712546.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: Security Groups
+    lessonOrder: 5
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/5'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/06_securitygroups__final_1537890667.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: IP Addressing
+    lessonOrder: 6
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/6'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/07_ipaddressing_final_1537890917.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: Launching and Using an EC2 Instance
+    lessonOrder: 7
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/7'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/08-provisioningec2_updated_1545148375.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: Connecting to an EC2 Instance from a Windows PC
+    lessonOrder: 8
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/8'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/10_connectingssh_windows_final_1538256270.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: Wrap It Up - EC2 Summary
+    lessonOrder: 9
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2748/lesson/9'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/09_ec2_wrapup_final_1537891148.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: Create a Linux EC2 Instance in AWS and Connect Using SSH
+    lessonOrder: 10
+    lessonLink: >-
+      https://app.linuxacademy.com/hands-on-labs/7819103c-5e59-4179-b635-9fc284e46c5a?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: lab
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: >-
+      Create a Windows EC2 Instance and Connect using Remote Desktop Protocol
+      (RDP)
+    lessonOrder: 11
+    lessonLink: >-
+      https://app.linuxacademy.com/hands-on-labs/a391b955-7a5d-4271-b2bc-7b5329a743cf?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: lab
+  - course: AWS Essentials
+    sectionTitle: Compute Services
+    sectionOrder: 5
+    subsectionTitle: Elastic Cloud Compute (EC2)
+    subsectionOrder: 2
+    lessonTitle: 'QUIZ: EC2 Essentials'
+    lessonOrder: 12
+    lessonLink: >-
+      https://app.linuxacademy.com/challenges/e9da4c4d-c280-442c-9958-995bbc9d2236?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: challenge
+  - course: AWS Essentials
+    sectionTitle: Storage Services
+    sectionOrder: 6
+    subsectionTitle: Storage Services Overview
+    subsectionOrder: 1
+    lessonTitle: Summary of AWS Storage Services
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2967/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_s3_intro_final_1539006522.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Storage Services
+    sectionOrder: 6
+    subsectionTitle: Storage Services
+    subsectionOrder: 2
+    lessonTitle: S3 Basics
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3-basics8292019-v2_1567779206.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Storage Services
+    sectionOrder: 6
+    subsectionTitle: Storage Services
+    subsectionOrder: 2
+    lessonTitle: Buckets and Objects
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3bucketsandfolders-8292019-v2-09202019_1568992095.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Storage Services
+    sectionOrder: 6
+    subsectionTitle: Storage Services
+    subsectionOrder: 2
+    lessonTitle: Storage Classes
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3storageclasses-962019-v4updated_1568645660.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Storage Services
+    sectionOrder: 6
+    subsectionTitle: Storage Services
+    subsectionOrder: 2
+    lessonTitle: Object Lifecycles
+    lessonOrder: 4
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/4'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3-object-lifecycles-922019-v3_1568645713.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Storage Services
+    sectionOrder: 6
+    subsectionTitle: Storage Services
+    subsectionOrder: 2
+    lessonTitle: Permissions
+    lessonOrder: 5
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/5'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3-permissions-922019-v3_1568645753.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Storage Services
+    sectionOrder: 6
+    subsectionTitle: Storage Services
+    subsectionOrder: 2
+    lessonTitle: Object Versioning
+    lessonOrder: 6
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/6'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-s3-s3-versioning-922019-v3_1568645788.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Storage Services
+    sectionOrder: 6
+    subsectionTitle: Storage Services
+    subsectionOrder: 2
+    lessonTitle: Wrap It Up - S3 Summary
+    lessonOrder: 7
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2751/lesson/7'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/08_wrapup_final_1539269048.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Storage Services
+    sectionOrder: 6
+    subsectionTitle: Storage Services
+    subsectionOrder: 2
+    lessonTitle: 'Creating Amazon S3 Buckets, Managing Objects, and Enabling Versioning'
+    lessonOrder: 8
+    lessonLink: >-
+      https://app.linuxacademy.com/hands-on-labs/c3870bf7-5d98-44fe-acf5-4c0bbdddb3d9?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: lab
+  - course: AWS Essentials
+    sectionTitle: Storage Services
+    sectionOrder: 6
+    subsectionTitle: Storage Services
+    subsectionOrder: 2
+    lessonTitle: Creating a Basic Amazon S3 Lifecycle Policy
+    lessonOrder: 9
+    lessonLink: >-
+      https://app.linuxacademy.com/hands-on-labs/d485772f-3128-4e2e-99c8-e948bbb95fc2?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: lab
+  - course: AWS Essentials
+    sectionTitle: Storage Services
+    sectionOrder: 6
+    subsectionTitle: Storage Services
+    subsectionOrder: 2
+    lessonTitle: 'QUIZ: S3 Essentials'
+    lessonOrder: 10
+    lessonLink: >-
+      https://app.linuxacademy.com/challenges/63a7c230-0516-4bfc-a395-5f0e55b1f268?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: challenge
+  - course: AWS Essentials
+    sectionTitle: Database Services
+    sectionOrder: 7
+    subsectionTitle: Database Services Overview
+    subsectionOrder: 1
+    lessonTitle: Summary of AWS Database Services
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2749/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_rds_intro_updated_1545320636.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Database Services
+    sectionOrder: 7
+    subsectionTitle: Databases
+    subsectionOrder: 2
+    lessonTitle: RDS and DynamoDB Basics
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2750/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-databases-rds-and-dynamodb-basics-932019-v3_1568645832.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Database Services
+    sectionOrder: 7
+    subsectionTitle: Databases
+    subsectionOrder: 2
+    lessonTitle: Provisioning a RDS (MySQL)
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2750/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/svc-video-uploader/production/13277/awsessentials-databases-provisioningardsmysql_1588154033.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Database Services
+    sectionOrder: 7
+    subsectionTitle: Databases
+    subsectionOrder: 2
+    lessonTitle: Wrap It Up - Database Summary
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2750/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_rds_summary_1538603836.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Database Services
+    sectionOrder: 7
+    subsectionTitle: Databases
+    subsectionOrder: 2
+    lessonTitle: Creating an Amazon Aurora RDS Database (MySQL Compatible)
+    lessonOrder: 4
+    lessonLink: >-
+      https://app.linuxacademy.com/hands-on-labs/dfd4c330-f9e9-465d-a69b-b9211c7f9903?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: lab
+  - course: AWS Essentials
+    sectionTitle: Database Services
+    sectionOrder: 7
+    subsectionTitle: Databases
+    subsectionOrder: 2
+    lessonTitle: 'QUIZ: AWS Essentials: RDS/DynamoDB Essentials'
+    lessonOrder: 5
+    lessonLink: >-
+      https://app.linuxacademy.com/challenges/fcf9fe6d-d9a2-4ee8-9d64-71ec0fd0bace?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: challenge
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: 'Overview of Monitoring, Alerts, and Notifications'
+    subsectionOrder: 1
+    lessonTitle: 'Summary of AWS Services for Monitoring, Alerts, and Notifications'
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2752/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_overview_final_1539712495.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: Simple Notification Service (SNS)
+    subsectionOrder: 2
+    lessonTitle: SNS Basics
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2753/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_snsbasics_take1_final_1539713225.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: Simple Notification Service (SNS)
+    subsectionOrder: 2
+    lessonTitle: Using SNS
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2753/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/svc-video-uploader/production/12109/awsessentials-simplenotificationservicesns-usingsns_1583180307.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: Simple Notification Service (SNS)
+    subsectionOrder: 2
+    lessonTitle: Wrap It Up - SNS Summary
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2753/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_wrapupsns_final_1539713932.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: Simple Notification Service (SNS)
+    subsectionOrder: 2
+    lessonTitle: 'QUIZ: SNS Essentials'
+    lessonOrder: 4
+    lessonLink: >-
+      https://app.linuxacademy.com/challenges/b9a4fb6b-f3d7-4874-a292-e2bf397e0db8?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: challenge
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: Management Tools
+    subsectionOrder: 3
+    lessonTitle: Introduction to Management Tools
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_managementtools_final_1540301474.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: Management Tools
+    subsectionOrder: 3
+    lessonTitle: CloudWatch Basics
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_cloudwatchbasics_final_1540301043.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: Management Tools
+    subsectionOrder: 3
+    lessonTitle: CloudWatch Metrics and Alarms
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-cloudwatch-cloudwatch-metrics-and-alarms-952019-v3_1568645928.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: Management Tools
+    subsectionOrder: 3
+    lessonTitle: CloudTrail - Basics
+    lessonOrder: 4
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/4'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_cloudtrailbasics_final_1540301642.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: Management Tools
+    subsectionOrder: 3
+    lessonTitle: Wrap It Up - Management Tools Summary
+    lessonOrder: 5
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2754/lesson/5'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/05_wrapup_final_1540301729.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: Management Tools
+    subsectionOrder: 3
+    lessonTitle: Monitoring and Notifications with CloudWatch Events and SNS
+    lessonOrder: 6
+    lessonLink: >-
+      https://app.linuxacademy.com/hands-on-labs/9087f514-28eb-4ace-acd4-b6cb83f666a0?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: lab
+  - course: AWS Essentials
+    sectionTitle: 'Monitoring, Alerts, and Notifications'
+    sectionOrder: 8
+    subsectionTitle: Management Tools
+    subsectionOrder: 3
+    lessonTitle: 'QUIZ: CloudWatch and CloudTrail Essentials'
+    lessonOrder: 7
+    lessonLink: >-
+      https://app.linuxacademy.com/challenges/7607ac17-b6b8-40cf-aa0a-cc001bf26de2?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: challenge
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Elastic Load Balancer (ELB)
+    subsectionOrder: 1
+    lessonTitle: 'Introduction to Load Balancing, Elasticity and Scalability'
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_elb_take2_final_1540913117.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Elastic Load Balancer (ELB)
+    subsectionOrder: 1
+    lessonTitle: ELB Basics
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials_elbbasics_05-22-19_1558541168.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Elastic Load Balancer (ELB)
+    subsectionOrder: 1
+    lessonTitle: Creating an ELB
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-load-balancingelasticity-scalability-creating-an-elb-962019-v3_1568645965.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Elastic Load Balancer (ELB)
+    subsectionOrder: 1
+    lessonTitle: Wrap Up - ELB Summary
+    lessonOrder: 4
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2756/lesson/4'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04-wrapup-final-09062019_1567783821.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Elastic Load Balancer (ELB)
+    subsectionOrder: 1
+    lessonTitle: 'QUIZ: ELB Essentials'
+    lessonOrder: 5
+    lessonLink: >-
+      https://app.linuxacademy.com/challenges/4d614063-3861-432d-b465-318dac7280cc?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: challenge
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Auto Scaling
+    subsectionOrder: 2
+    lessonTitle: Introduction to Auto Scaling
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_intro_final_1540475366.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Auto Scaling
+    subsectionOrder: 2
+    lessonTitle: Auto Scaling Basics
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_autoscalingbasics_final_updated_1545142852.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Auto Scaling
+    subsectionOrder: 2
+    lessonTitle: Using Auto Scaling
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-autoscaling-mar1-19_1551465700.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Auto Scaling
+    subsectionOrder: 2
+    lessonTitle: Wrap It Up - Auto Scaling Summary
+    lessonOrder: 4
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2757/lesson/4'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_autoscaling_wrapup_final_1540475838.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Auto Scaling
+    subsectionOrder: 2
+    lessonTitle: 'QUIZ: Auto Scaling Essentials'
+    lessonOrder: 5
+    lessonLink: >-
+      https://app.linuxacademy.com/challenges/90b69b39-4761-40f1-9b5c-d13489fa5cb0?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: challenge
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Route 53
+    subsectionOrder: 3
+    lessonTitle: Introduction to Route 53
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_r53_intro_final_1540816960.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Route 53
+    subsectionOrder: 3
+    lessonTitle: Route 53 Basics
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_r53_basics_take2_final_1540817119.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Route 53
+    subsectionOrder: 3
+    lessonTitle: Using Route 53
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/03_using_r53_v2_final_1554392420.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Route 53
+    subsectionOrder: 3
+    lessonTitle: CloudFront Basics
+    lessonOrder: 4
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/4'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_cloudfront_final_1540817298.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Route 53
+    subsectionOrder: 3
+    lessonTitle: Wrap It Up - Route 53 Summary
+    lessonOrder: 5
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2758/lesson/5'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/05_wrapupr53_final_1540817385.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Route 53
+    subsectionOrder: 3
+    lessonTitle: >-
+      Setting Up an Application Load Balancer with an Auto Scaling Group and
+      Route 53 in AWS
+    lessonOrder: 6
+    lessonLink: >-
+      https://app.linuxacademy.com/hands-on-labs/c1da328a-dd5d-4fb5-904f-f9e89603d017?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: lab
+  - course: AWS Essentials
+    sectionTitle: 'Load Balancing, Elasticity, and Scalability'
+    sectionOrder: 9
+    subsectionTitle: Route 53
+    subsectionOrder: 3
+    lessonTitle: 'QUIZ: Route 53 Essentials'
+    lessonOrder: 7
+    lessonLink: >-
+      https://app.linuxacademy.com/challenges/b5cc22f2-5864-41b3-b561-6484d2d7f807?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: challenge
+  - course: AWS Essentials
+    sectionTitle: Serverless Compute
+    sectionOrder: 10
+    subsectionTitle: Lambda
+    subsectionOrder: 1
+    lessonTitle: Introduction to Lambda
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_lambda_intro_final_1540836805.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Serverless Compute
+    sectionOrder: 10
+    subsectionTitle: Lambda
+    subsectionOrder: 1
+    lessonTitle: Lambda Basics
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_lambda_basics_final_1540850311.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Serverless Compute
+    sectionOrder: 10
+    subsectionTitle: Lambda
+    subsectionOrder: 1
+    lessonTitle: Lambda Test
+    lessonOrder: 3
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/3'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/awsessentials-serverless-lambda-test-962019-v3_1568646006.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Serverless Compute
+    sectionOrder: 10
+    subsectionTitle: Lambda
+    subsectionOrder: 1
+    lessonTitle: Wrap It Up - Lambda Summary
+    lessonOrder: 4
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2760/lesson/4'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/04_wrapup_lambda_final_1540850396.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Serverless Compute
+    sectionOrder: 10
+    subsectionTitle: Lambda
+    subsectionOrder: 1
+    lessonTitle: Creating a Basic Lambda Function to Shut Down an EC2 Instance
+    lessonOrder: 5
+    lessonLink: >-
+      https://app.linuxacademy.com/hands-on-labs/682d1793-2bc5-455b-9485-97be5499b676?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: lab
+  - course: AWS Essentials
+    sectionTitle: Serverless Compute
+    sectionOrder: 10
+    subsectionTitle: Lambda
+    subsectionOrder: 1
+    lessonTitle: 'QUIZ: Lambda Essentials'
+    lessonOrder: 6
+    lessonLink: >-
+      https://app.linuxacademy.com/challenges/89d52db0-133f-4571-b6c3-37f1b4d2aee4?redirect_uri=https://linuxacademy.com/cp/modules/view/id/241
+    lessonType: challenge
+  - course: AWS Essentials
+    sectionTitle: Course Summary and Conclusion
+    sectionOrder: 11
+    subsectionTitle: Final Steps
+    subsectionOrder: 1
+    lessonTitle: What We Learned
+    lessonOrder: 1
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2761/lesson/1'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/01_wrapup_whatwelearned_final_1540856632.smil/playlist.m3u8?1556293582
+  - course: AWS Essentials
+    sectionTitle: Course Summary and Conclusion
+    sectionOrder: 11
+    subsectionTitle: Final Steps
+    subsectionOrder: 1
+    lessonTitle: What's Next?
+    lessonOrder: 2
+    lessonLink: 'https://linuxacademy.com/cp/courses/lesson/course/2761/lesson/2'
+    lessonType: video
+    downloadLink: >-
+      https://video-cdn.linuxacademy.com/vods3/_definst_/smil:box/cdnstore/modules/aws-essentials-new-1530821786284/02_whatsnext_take2_final_1542039235.smil/playlist.m3u8?1556293582
+
