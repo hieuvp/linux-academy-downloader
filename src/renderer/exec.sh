@@ -2,13 +2,15 @@
 
 set -eou pipefail
 
-readonly OUTPUT_FILE="test-data/out-download.sh"
+readonly TEMPLATE_PATH="download.tpl"
+readonly OUTPUT_TEMPLATE_PATH="test-data/output-download.sh"
+readonly DATA_PATH="test-data/data.yml"
 
 set -x
 
-rm -f "$OUTPUT_FILE"
+rm -f "$OUTPUT_TEMPLATE_PATH"
 
 gomplate \
-  --datasource data=test-data/data.yml \
-  --file download.tpl \
-  --out "$OUTPUT_FILE"
+  --datasource data="$DATA_PATH" \
+  --file "$TEMPLATE_PATH" \
+  --out "$OUTPUT_TEMPLATE_PATH"
