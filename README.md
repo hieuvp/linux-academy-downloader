@@ -45,6 +45,17 @@ These are mandatory dependencies that must be installed in your machine:
 - [gomplate](https://github.com/hairyhenderson/gomplate):
   a template renderer.
 
+<!-- AUTO-GENERATED-CONTENT:START (CODE:src=run.dockerfile) -->
+<!-- The below code snippet is automatically added from run.dockerfile -->
+
+```dockerfile
+FROM node:erbium
+
+RUN npm install --global linux-academy-downloader
+```
+
+<!-- AUTO-GENERATED-CONTENT:END -->
+
 ### Installation
 
 #### NPM

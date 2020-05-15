@@ -14,3 +14,6 @@ gomplate \
   --datasource data="$DATA_PATH" \
   --file "$TEMPLATE_PATH" \
   --out "$OUTPUT_TEMPLATE_PATH"
+
+# Put this script into scripts/
+# Create a target in Makefile
