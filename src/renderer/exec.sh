@@ -1,10 +1,14 @@
 #!/usr/bin/env bash
 
-set -eoux pipefail
+set -eou pipefail
 
-rm -f test-data/output.sh
+readonly OUTPUT_FILE="test-data/out-download.sh"
+
+set -x
+
+rm -f "$OUTPUT_FILE"
 
 gomplate \
   --datasource data=test-data/data.yml \
-  --file in.tpl \
-  --out test-data/output.sh
+  --file download.tpl \
+  --out "$OUTPUT_FILE"

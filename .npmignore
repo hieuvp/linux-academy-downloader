@@ -6,5 +6,6 @@
 
 ### Exclude test files
 **/test-data/
+*.bats
 *.test.js
 *.test.js.snap
