@@ -40,9 +40,19 @@ test:
 	npx jest --updateSnapshot
 	@printf "\n"
 
+	@printf "\n"
+	npx bats --recursive .
+	@printf "\n"
+
 .PHONY: test-ci
 test-ci:
+	@printf "\n"
 	npx jest --ci --bail
+	@printf "\n"
+
+	@printf "\n"
+	npx bats --tap --recursive .
+	@printf "\n"
 
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
